@@ -1,0 +1,2570 @@
+Acerca del empleo
+Inetum es una compañía de servicios ágil que proporciona servicios y soluciones digitales y un grupo global que ayuda a compañías e instituciones a aprovechar al máximo el flow digital. En un contexto de continuo movimiento, en el que las necesidades y los usos se reinventan constantemente, el grupo Inetum se compromete con todos esos actores a innovar, seguir adaptándose y mantenerse a la vanguardia. Con su perfil multi-experto, Inetum ofrece a sus clientes una combinación única de proximidad, organización sectorial y soluciones de calidad industrial. Presente en más de 26 países, el Grupo tiene cerca de 27.000 empleados y en 2019 generó unos ingresos de 2.300 millones de euros (pro forma).
+
+
+
+Precisamos incorporar a importante proyecto estable, de uno de nuestros clientes del sector Turismo, un/a INGENIERO/A DE DATOS (DATA ENGINEER), con las siguientes funciones y requisitos:
+
+
+*FUNCIONES:
+
+Modelización de las estructuras de datos necesarios.
+Definición y creación de metadatos.
+Identificación y creación de dimensiones y variables.
+Diseño y preparación de los datasets requeridos.
+Extracción de datos de múltiples fuentes y formatos digitales.
+Garantizar los estándares de calidad definidos.
+Obtener los índices de calidad y reportar incidencias en los datos.
+Desarrollo de las acciones de preparación de los datasets de entrenamiento, validación y pruebas, y de capas de datos de valor añadido mediante la actualización, normalización, de duplicación, agregación y fusión de la información, etc .
+Colaboración con el Data Scientist para la identificación y creación de las características de los modelos analíticos.
+Cobertura de ciertas necesidades de desarrollo haciendo uso de lenguajes Python o Java.
+
+*REQUISITOS:
+
+Titulación requerida: Titulación universitaria de diplomado o ingeniero técnico en áreas de ingeniería, informática o ciencias.
+Experiencia de al menos 3 años en proyectos de desarrollo de BI/Big Data/ML tomando parte en la labores de ingesta y preparación de datos: manejando herramientas de ingesta, productos de ETL & ELT , así como técnicas de manipulación y consulta de datos.
+Experiencia de al menos 1 año desarrollando las funciones de ingeniero de datos sobre arquitecturas de nube pública.
+Conocimientos de lenguajes de programación, al menos Python y Java.
+
+*LUGAR DE TRABAJO: Preferiblemente Mallorca o en remoto con algunos días de trabajo a la semana para reuniones en las oficinas del cliente en Mallorca.
+
+
+
+¿QUÉ ES LO QUE INETUM TE PUEDE OFRECER?
+
+Retribución salarial acorde con la experiencia aportada
+Plan de carrera: ofrecemos una atractiva carrera profesional en función de la experiencia y potencial personal dentro de una compañía en continua evolución y con un sólido crecimiento
+Plan de formación en competencias tecnológicas de acuerdo con las exigencias de los proyectos y clientes.
+Retribución flexible: te ofrecemos una retribución a la carta pudiendo elegir diferentes productos y modelar tú mismo cómo distribuirlos: seguro de salud, tickets de comida, guardería, tarjeta transporte, etc.
+Flexibilidad horaria
+
+Únete a @Inetum. Live your positive digital flow
+
+Our client is an innovative company based in Valencia, Spain, with global brand and presence. It is a data, IT and business intelligence company offering a new approach to traveller operational business intelligence, leveraging global flight reservation information and other data to monitor and qualify traveller flows, map global demand, and forecast trends. It provides live, tactical information and exclusive insights to Tourism Boards, Hotels Chains, Retailers, Airports, duty-free operators, tax refund, car rentals, and all those that have a travellers-related business.
+
+
+FUNCTIONS
+
+Your role as a Data Engineer will be to develop ETL processes, import and enrich data feeds, discuss data storage architecture and data formats, maintain existing processes, improve the efficiency of import processes, guarantee data availability for Data Scientists and for customer products, guarantee data quality, deploy and look after automated processes on our hybrid cloud infrastructure, investigate other possible sources of data, etc.
+
+
+Requirements:
+
+
+Solid experience with Python.
+
+Able to propose and design Big Data ETLs.
+
+Knowledge of Spark, Hadoop, etc. using Parquet file format
+
+Mastering SQL queries and data models
+
+Hands-on AWS experience, with a focus on data & analytics
+
+Infrastructure automation for both cloud-based (AWS, Azure) and on-premise (Jenkins, NiFi, AirFlow, etc.)
+
+A mind focussed on quality of service, reliable and able to handle crisis situations.
+
+Able to provide pragmatic solutions and make decisions.
+
+Be prepared to defend the company’s competitive advantage. Be excited; and enjoy!
+
+
+Nice to have:
+
+
+Experience programming in Java
+
+MongoDB, MySQL, etc.
+
+AWS Cloud Formation, RDS, Athena, EC2
+
+Azure, Microsoft SQL Server, etc.
+
+Other file formats: OCR, AVRO.
+
+Agile, Jira, Confluence, Bitbucket, Git, Sonar.
+
+Data Quality Control
+
+Linux shell scripts, notions of system administration.
+
+
+The offer:
+
+
+Full time, indefinite contract.
+
+Be part of a fun, successful yet stable, young and exciting company.
+
+Nice and dynamic working environment.
+
+Flexible working hours.
+
+English, Spanish and pilates/yoga classes.
+
+
+If you are a team player, embracing the company’s vision, willing to bring and try new ideas, yet striving for profitability and achieving practical goals, we want to talk to you. Be prepared to be hands-on, take ownership and responsibilities and achieve goals on your own, while working closely with IT and Data Science teams.
+
+Acerca del empleo
+¿Te apetece formar parte de una compañía en pleno crecimiento? ¿Y trabajar rodeado del mejor TALENTO en proyectos realmente innovadores? En SOLUTIO es posible y nos gustaría conocerte.
+
+
+Seleccionamos a 2 personas con experiencia profesional en Ingeniería de datos sobre Microsoft Azure, para incorporarse en nuestro equipo en dos de nuestros clientes, de forma estable y en remoto.
+
+
+Requisitos vacante 1
+
+
+Python
+Spark
+Git
+Azure tools (Databricks, Datafactory, SQL Server, DevOps)
+Buen nivel de conversación en inglés
+
+Requisitos vacante 2
+
+
+Imprescindible, Azure Databricks y Azure SQL, con capacidades de desarrollo en Python. También Azure Datalake y Azure Blob Storage.
+Buenos conocimientos a nivel SQL y Azure SQL, con capacidades de desarrollo a nivel de Store Procedures.
+Deseable Azure Devops, Datafactory y Power BI. Conocimientos en IOT y/o Azure IoT
+
+Si estás buscando un cambio profesional y quieres participar en proyectos innovadores con tecnologías punteras, ¡¡anímate y envíanos tu CV!!
+
+Acerca del empleo
+Grupo Planeta
+
+
+Somos el primer grupo editorial y de comunicación español, de capital familiar, que lidera una amplia oferta al servicio de la cultura, la formación, la información y el entretenimiento audiovisual, con presencia en más de 20 países, conectando con 25 millones de personas cada día. Todos los profesionales y empresas del Grupo Planeta compartimos unos principios que tienen como base las personas, la ética, la calidad y la excelencia en el trabajo.
+
+
+Descripción de la oferta
+
+En nuestro departamento transversal de Marketing Digital buscamos a un/a Data Engenieer 💻, que se ocupe de gestionar la estrategia, implementación y desarrollo técnico de la analítica en las distintas unidades de negocio del Grupo Planeta.
+
+Tu misión será velar para una óptima recogida del dato y su posterior activación con el objetivo de obtener mejoras en los resultados de los negocios.
+
+En tu día a día, darás soporte a varios negocios del Grupo Planeta, generando acciones según las necesidades de cada marca. Y podrás apoyarte en el conocimiento y las herramientas del equipo de especialistas en distintas ramas del Marketing Digital del que formarás parte (Analítica, UX/UI, Marketing Automation, SEO, Paid y Social Media).
+
+Somos un equipo innovador, creativo y proactivo. Así que buscamos a una persona muy motivada, con ganas de implicarse en el proyecto y aportar, no solo a nivel profesional sino también personal.
+
+Serás la persona responsable de la calidad del dato.
+Extraerás y validarás datos de plataformas online (webs y apps) a través de herramientas de analítica.
+Realizarás paneles de control para los distintos negocios.
+Establecerás la capa de medición de todos los negocios del Grupo mediante:
+El entendimiento de las necesidades de medición del negocio.
+La definición de la capa de data layer que recogerá todas las variables.
+Documentación de la solución de medición.
+La interlocución con los equipos técnicos de despliegue de la solución.
+La configuración de las herramientas de medición (GTM, GA, UX tools…).
+El soporte y mantenimiento de la solución.
+Serás el responsable de la gestión con los proveedores técnicos con los que trabajamos.
+Medirás las campañas a través de la implementación de píxeles de terceros.
+Realizarás análisis avanzados mediante SQL, Python o R.
+Aplicarás técnicas de Machine Learning para clusterizaciones y/o análisis predictivos.
+
+¿Qué buscamos en ti? 🕵️♂️
+
+Que seas una persona metódica y meticulosa, ordenada, responsable y muy proactiva. Y, sobre todo, que te apasione tu trabajo.
+Que tengas experiencia implementando Google Analytics a través de GTM con Data Layer.
+Que te muevas bien en Google Analytics 360, GTM y en la integración de datos a través de Measurement Protocol.
+Que tengas experiencia en la suite de Google Cloud y en especial de Big Query.
+Que domines SQL, Python o R.
+Que estés habituado/a a trabajar con APIs y conectores de herramientas.
+Que te sientas cómodo/a hablando con proveedores y partners, y que puedas hacerlo también en inglés, ya que algunos están en el extranjero.
+Que sepas trabajar en equipo y busques ayudar y facilitar el trabajo a los demás. Queremos que aportes tanto valor profesional como personal.
+Que quieras compartir tu conocimiento y absorber el que te ofrezcan tus compañeros.
+
+¿Qué es lo que ofrecemos? 🎈
+
+Pertenecer a un equipo de expertos y expertas, donde todos aportamos y donde se respira muy buen ambiente de trabajo.
+Formar parte de la División de Innovación, donde se cocinan los nuevos proyectos del Grupo Planeta.
+Trabajar en proyectos muy diversos, dentro de distintos sectores (editorial, innovación, ecommerce, coleccionables, formación…).
+Pertenecer a un equipo de expertos/as, donde todos aportamos y donde se respira muy buen ambiente de trabajo.
+Contrato indefinido y jornada completa, con los viernes tardes libres.
+Descuentos y promociones exclusivas para nuestros empleados (masters y posgrados, selloseditoriales, coleccionables, Casa del Libro...)
+Un atractivo paquete de beneficios sociales a través del plan de retribución flexible que incluye: tarjeta transporte, tarjeta restaurante, cheque guardería, seguro médico, etc.
+Formaciones de idiomas (inglés y francés) y específicas sobre Marketing Digital, más allá de las sesiones que realizamos con grandes partners como Google o Facebook.
+Poder disponer de toda la fruta que quieras en la oficina.
+
+
+Si crees que esta es tu oportunidad, ¡no dudes en inscribirte!
+
+¡Te estamos esperando!
+
+Acerca del empleo
+Company Overview
+
+
+Headquartered in Barcelona (Spain) Rakuten TV is the leading Video On-Demand platform in Europe providing users an all-in-one content universe just on a click. The company is continuously growing and expanding the scope of its services.
+
+
+Rakuten TV is available today in 42 countries and is part of Rakuten Group, one of the world’s leading internet services companies. Rakuten is also known for its partnerships with FC Barcelona, the NBA, the Golden State Warriors and Davis Cup.
+
+
+
+ROLE: Data Engineer
+
+
+Rakuten TV is looking for a highly analytical Data Engineer to join our Business Intelligence team, in Barcelona. You will also be working with teams from around the Globe, in Barcelona, Paris and Tokyo.
+
+
+Responsibilities
+
+
+
+· Design and Development of data pipelines to ingest, normalize and clean data.
+
+· Development and monitoring of daily ETL process to assure data integrity and timely delivery.
+
+· Effectively communicate results and insights with other stakeholders throughout the organization through regular KPI reporting and analysis
+
+
+Requirements and Experience
+
+
+· 3-5 years of related experience as a Data Engineer.
+
+· Strong knowledge of SQL and Python.
+
+· Experience with ETL using Pentaho, Talend, Matillon or any other workflow tools.
+
+· Experience in Cloud based platforms such as Snowflake, AWS, Azure, Google Cloud.
+
+· Experience working with version control (GIT).
+
+· Experience working with data visualization tools such as Tableau, Qlikview, Power BI is a plus.
+
+
+Some good reasons to apply
+
+
+Opportunity to work for a leading company and a global technology conglomerate.
+Promotion possibilities in a fast growth environment.
+Great work environment, 2 blocks away from Barcelona beach.
+Culturally diverse and inclusive environment, with people from approx. 30 different nationalities.
+Private Medical Insurance, extra money for meal card/commuting card and other benefits.
+Free Language Classes on-site and interesting trainings and sponsorships.
+
+Acerca del empleo
+Are you willing to start a career in tech as a Data Engineer / Analyst?
+
+
+Workfully built first-of-its-kind Talent Accelerator for Data Engineers, where you don't need any previous experience and you will be paid and be given a permanent contract from day 1 of training.
+
+You will earn a competitive salary while learning the skills you need, and immediately join a top company's team on their mission to build the best tech products for the internet from Madrid.
+
+
+The Data Engineering Acceleration Program
+
+
+
+Apply before the December 14th;
+Start mid-January, sign a Permanent Contract, and start earning a salary of 21K+ from day 1. Having a clear career path with regular salary increases over 3 years;
+1 Month of intensive full-time training;
+Join the team and work supporting worldwide clients;
+Get personal and technical coaching for 6 months to improve and do better;
+Develop your career as a Data Engineer, gain skills and experience, and get promoted.
+
+What you will learn
+
+
+We will take you from tech passionate to Data Engineer
+Python, SQL, and how to talk to databases and manipulate data
+Data Models and Machine Learning Models
+Data visualization
+Cloud infrastructure (AWS, Azure, GCP)
+
+Requirements
+
+
+You are passionate about Data technology and can prove it (did a Bootcamp, certifications, or side projects)
+You are hungry for learning and to build your career
+You have basic knowledge of Data Models
+You speak English & Spanish fluently
+Able to start working full time by Mid December in Madrid
+Contactar al anunciante de empleo
+
+Acerca del empleo
+¿QUÉ HARÁS?
+
+We are the 100% digital bank of the Santander Group and we are currently undergoing a technological transformation and international expansion. In 2016 the re-launch of the Bank began and since then we have been in continuous expansion and growth, especially in our technological side. We work in a start-up format, using agile methodologies to take our clients' experience to the next level. In 2019 we launched the Bank in the Netherlands, Germany and Portugal and we are almost landing in Argentina, with others to follow. Our culture makes us different; social and diversity clubs are part of our essence and allow us to live our culture every day. We are a flexible and fast adapting team that currently works remotely most of the time using all kinds of communication tools, we haven´t noticed the change!
+
+Mission and responsibilities:
+
+Openbank is in the middle of a digital transformation, working in startup format and innovating in core banking product development from within. We want to convey a whole new digital experience to our customers and for that reason we need the most skilled professionals to come and join us. Currently we are looking for Big Data Developers to make the team even stronger.
+
+Responsibilities:
+
+
+Design and implement production big data environments using modern technologies.
+Build, validate and optimize large-scale, big data solutions in heterogeneous data environments.
+Qualifications - Internal
+
+What are we looking for in this position?
+
+
+Bachelor’s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.
+3+ years of experience working with scala, software design patterns and TDD.
+Experience working with big data (spark is a must, hadoop, hive, kafka).
+Experience with different database structures, including SQL (postgres, mysql) and NOSQL (cassandra, redis, elastic search).
+Experience and expertise across data integration and data management with high data volumes.
+Experience with AWS ecosystem (AWS, EMR, s3, redshift, lambda, glue, athena)
+Experience working in agile continuos integration/devops paradigm and tool set (git, jenkins, sonar, nexus, jira, splunk)
+Nice to have
+
+
+Experience with data warehousing and visualisation tools.
+Experience with NRT applications: Flink, spark streaming, hbase.
+Experience with cloudera.
+Experience with machine learning.
+What do we offer?
+
+
+Immediate incorporation to a dynamic and agile company with a growth and expansion project.
+Working in start-up mode with the support of Grupo Santander.
+Competitive remuneration and attractive benefits package.
+Possibility of growth within the company and the Group.
+Collaboration in international projects and possibility of contact with different countries.
+Excellent work environment, social clubs and frequent events (now virtual).
+
+Would you like to grow with us? Join our team!
+
+Openbank is an equal opportunity employer. All applicants will be considered as equal without paying attention to gender identity, sexual orientation, ethnicity, religion, age, political orientation, union membership nor disability status.
+
+We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build.
+
+If you´re not currently living in Madrid or Valencia and you are open to relocate, we would still love to consider your application.
+
+Contactar al anunciante de empleo
+
+Acerca del empleo
+EL GRUPO
+
+Si apasiona la moda sport y el deporte, en Iberian Sports Retail Group tenemos mucho que ofrecerte: te damos la oportunidad de desarrollar tu carrera en el grupo líder del retail deportivo multimarca en España y Portugal, en un proyecto en constante crecimiento y un entorno basado en la cooperación y el respeto mutuo, con un fuerte compromiso por la diversidad y la igualdad de oportunidades.
+
+Gracias a Sprinter, JD Sports, Sport Zone y Size? contamos con más de 375 tiendas y 8000 personas que forman parte de esta familia en constante expansión internacional.
+
+¿Te unes al equipo?
+
+SPRINTER
+
+Si lo que te va es el deporte y vestir con un estilo casual, en Sprinter te sentirás como en casa. Y tienes muchas ‘casas’ para elegir porque Sprinter tiene más de 125 tiendas por toda España, en las que podrás crecer profesionalmente rodeado de tu pasión; ayudando a deportistas a encontrar sus zapatillas perfectas, o equipando a los prebenjamines del equipo de la zona.
+
+MISIÓN
+
+El Data Engineer será responsable de actualizar, expandir y optimizar nuestra nueva arquitectura de datos basada en tecnologías Big Data. Usando su conocimiento en los lenguajes de programación en combinación con las necesidades de negocio y el diseño de la arquitectura de datos, implementará, monitorizará y actualizará los sistemas de datos para los diferentes dominios de negocio.
+
+Se requiere una excelente comunicación interpersonal para interactuar con el equipo de Data Analytics, Business Analysts, Arquitectura de Software y Project Managers para abordar problemas técnicos o necesidades de datos.
+
+FUNCIONES
+Capacidad para crear y optimizar conjuntos de datos, pipelines y arquitecturas de datos de Big Data.
+Capacidad para realizar análisis de causa raíz en procesos y datos externos e internos para identificar oportunidades de mejora y responder a los equipos de análisis de datos.
+Excelentes habilidades analíticas asociadas con el trabajo en conjuntos de datos no estructurados.
+Capacidad para crear procesos que respalden la transformación de datos, la gestión de la carga de trabajo, las estructuras de datos, la dependencia y los metadatos.
+Analizar y solucionar problemas de rendimiento en las arquitecturas de datos para mejorar el desarrollo del Reporting: business intelligence y business data estándar.
+Desarrollar los scripts y programas en Python que forman parte del ciclo de vida del dato analítico.
+Trabajar con bases de datos NOSQL: BigQuery.
+Participar en proyectos de Data Lake en Cloud (Google Cloud Platform).
+Capacitar y transmitir el conocimiento al equipo de Desarrollo correctivo y soporte de procesos de integración de datos.
+REQUISITOS
+Conocimientos avanzados en SQL y experiencia en el trabajo con bases de datos no-relacionales, en especial BigQuery (Google Cloud Platform), creación de consultas y familiaridad con el trabajo con una variedad de bases de datos.
+Conocimientos avanzados de Python.
+Conocimiento en las arquitecturas de Data Warehouses, Data Marts y Big Data.
+Conocimientos en ETL pipelines.
+Conocimientos en el ciclo de vida del desarrollo de software, CI / CD, GitOps, GITLab.
+Valorable el conocimiento y uso de Apache AirFlow.
+OFRECEMOS
+Porcentaje sobre objetivos
+Flexibilidad horaria
+Instalaciones deportivas dentro de la empresa
+Integración en un grupo multinacional.
+Desarrollo y carrera en un entorno internacional.
+Plan de desarrollo personalizado.
+Teletrabajo
+Formación a cargo de la empresa.
+
+Acerca del empleo
+Hola maj@! 🙋♂️
+
+
+Formar parte de Hiberus Tecnología significa crecimiento, pasión por la tecnología, interés por la innovación, ambiente laboral flexible y colaborativo, compañerismo, aprendizaje, formación continua, motivación y superación ante nuevos retos...y esto es solo el principio.
+
+
+Somos una tecnológica de negocios digitales HIPERESPECIALIZADA; cada una de las áreas de desarrollo está especializada en la línea de negocio específica, donde lo que nos diferencia es que damos un servicio 360º.
+
+En Hiberus estamos viviendo un crecimiento explosivo 💥 y queremos que formes parte de nuestro equipo.
+
+
+Hemos llegado al objetivo de ser 1.500 empleados, facturación de 75M€, 21 delegaciones, 38 áreas de especialización tecnológica, 75% de clientes del IBEX35… ¡y todo lo que queda por llegar!
+
+El área de Data & Analytics se suma al objetivo de crecer exponencialmente en proyectos Cloud ☁️, por ello ofrecemos un nuevo curso desde nuestra Hiberus University 👨🏽💻 para HÉROES y HEROÍNAS que tengan interés en especializarse en el mundo de los Datos con trabajo de calidad asegurado.
+
+
+¿Qué buscamos?
+
+Buscamos a personas con formación y pasión en el mundo del dato, que tenga estudios en ingeniería informática, telecomunicaciones, matemáticas, físicas, estadística...
+
+
+No hace falta que tengas experiencia, simplemente que quieras formarte y unirte a la compañía española que mas ha crecido en el 2021.
+
+¿Qué aprenderás?
+
+Una formación muy completa de más de 350 horas sobre herramientas y procesos de Data, basada en módulos comunes y especializaciones. Aprenderás sobre Business Intelligence, ETL, SQL, Power BI, Python, Google Cloud, Airflow, Azure, Snowflake…
+
+¿En qué tipo de proyectos trabajaré?
+
+
+Big Data 👉 partners de las 3 nubes
+
+Business Intelligence & Analytics 👉 herramientas DWH
+
+Business Intelligence 2.0 👉 partners de principales herramientas de visualización
+
+Machine Learning 👉 Inteligencia Artificial
+
+¿Qué me encontraré en Hiberus?
+
+Ambiente familiar, cercano, ¡como una gran familia!
+
+Conciliación familiar y laboral mediante horario flexible, acuerdos de teletrabajo, jornada intensiva viernes y verano.
+
+Cultura “techie”, nos gusta estar en contacto con la tecnología, herramientas, y últimas novedades!
+
+Suena bien, ¿verdad? Si quieres saber más, ¡inscríbete y te contamos!
+
+#somoshiberus #lascosasocurrenaquí
+
+Contactar al anunciante de empleo
+
+Acerca del empleo
+¡Tenemos algo que proponerte! ¿buscas un cambio?, ¿estás interesado/a en una nueva oportunidad laboral? Si la respuesta es sí, ¡esta es tu oferta!
+
+
+En Viewnext, empresa perteneciente al grupo IBM, buscamos profesionales con experiencia como Data Engineer, para incorporar en un gran proyecto. La compañía está en pleno proceso de digitalización apostando por grandes proyectos con palancas de innovación donde existen grandes oportunidades de desarrollo profesional.
+
+
+Se requiere experiencia mínima de 2 años en:
+
+Python
+PySpark
+Scala
+Google Cloud
+
+Valorable: nivel intermedio de inglés
+
+
+
+Ubicación: Valencia, Almería, Cáceres y Salamanca.
+
+
+
+¿Qué te ofrecemos?
+
+Salario competitivo
+Formación en Tecnología y también en 'Soft Skills'
+Acceso a las certificaciones tecnológicas más importantes del mercado.
+Plan de carrera, seguimiento y evaluación anual de tu desarrollo profesional.
+Plan de retribución flexible (seguro médico, transporte, formación y guardería).
+Tarjeta Restaurante para trabajadores presenciales.
+Programa de Teletrabajo "Full Remote".
+Horario de 9.00 a 18.00 con flexibilidad de entrada y salida.
+Jornada de Verano del 1 Julio al 15 de septiembre.
+Buen ambiente de trabajo, innovador, abiertos e inclusivos.
+
+Si estás interesad@ no dudes en inscribirte en nuestra oferta para poder contarte más detalles de este proyecto.
+
+
+¿Quieres conocernos un poco más? Haz click en el siguiente enlace:
+
+https://www.youtube.com/watch?v=C9z50VSdjcs
+
+Acerca del empleo
+Quercus Technologies is a consolidated company in the parking sector with installations worldwide, being a world reference in license plate recognition, vehicle detection and parking guidance systems.
+
+
+We are looking for a data engineer with skills on data science, big data, and server APIs. His/Her main work will be focused on contributing to set up and maintain an infrastructure for data gathering, storage, classification, and analysis. The data will be mainly composed of images and other related metadata. The candidate is expected to work closely with our machine learning experts under the scope of the ongoing projects in Quercus in order to increase the development efficiency.
+
+
+About The Role
+
+What will you do?
+
+Design, install and set up efficient architectures as well as maintain them on service.
+Contribute on creating data collection protocols by means of using APIs or other tools that can effectively transfer and store remote data.
+Create routines for automatically classifying the incoming data based on its related metadata or other criteria of interest. Maintain and ensure the consistency of the stored data.
+Supervise and manage the outsourcing of the labeling process of the collected data, dealing with third-party companies.
+Create scripts for analyzing data to extract conclusive results that will guide the development of the projects.
+Work with our machine learning experts on training models. Provide tools and expertise on data preparation to ease and improve the process of training machine learning models.
+
+What profile are we looking for?
+
+Mandatory
+
+Bachelor's/Master's/PhD in STEM (Mathematics, Computer Science, Physics, Engineering).
+Proficiency skills in Python scripting.
+Extensive knowledge of data storage methodologies and technologies.
+Exposure to web services and APIs for data collection-processing.
+Pro-efficient in Linux-based systems. Virtualization and containers are a plus.
+
+Valuable
+
+Experience with public cloud systems (e.g. GCP, AWS).
+Have basic concepts/skills in computer vision.
+Some exposure to ML platforms.
+Statistics and analytical skills.
+Awareness of data quality aspects in data warehousing systems.
+Knowledge on legal policies (EU and Spain) related to data collection, storage and manipulation.
+
+What skills do we value?
+
+Curiosity and inquisitiveness. Remains up to date with the latest trends in data engineering.
+To go far we go together, team-oriented.
+Innovative and proactive attitude.
+Analytical and solution-oriented.
+Proactive attitude and cross-functional communication skills.
+
+What can we offer you?
+
+Flexible working hours with short Fridays
+Partial remote work (if you want).
+Training programs
+Competitive salary + benefits
+Office location: Reus or Barcelona
+Contactar al anunciante de empleo
+
+Acerca del empleo
+About ConsenSys
+
+ConsenSys is the leading Ethereum software company. We enable developers, enterprises, and people worldwide to build next-generation applications, launch modern financial infrastructure, and access the decentralized web. Our product suite, composed of Infura, Quorum, Codefi, MetaMask, and Diligence, serves millions of users, supports billions of blockchain-based queries for our clients, and has handled billions of dollars in digital assets. Ethereum is the largest programmable blockchain in the world, leading in business adoption, developer community, and DeFi activity. On this trusted, open source foundation, we are building the digital economy of tomorrow. To explore our products and solutions, visit http://consensys.net/.
+
+About ConsenSys Quorum
+
+ConsenSys Quorum is an open source protocol layer that provides developers with the flexibility and reliability needed to make their blockchain applications successful. ConsenSys Quorum comprises a suite of configurable components and APIs, enabling you to customize your use case and production environment. Confidently join the hundreds of enterprises already running reliable, production applications on Quorum.
+
+About The Role
+
+As a Software Engineer at ConsenSys you will: build core blockchain and enterprise technologies; optimize blockchain data structures, write crypto algorithms and protocol specifications; Design, develop and implement blockchain protocol packages for Ethereum; Craft and maintain interfaces for API and Storage teams; Use formal methods to test the correctness of Ethereum Protocols.
+
+Required Skills
+Deep understanding of OOD/OOP distributed systems; designing and developing large scale, high availability software preferably in Java
+Experience analyzing data structures and algorithms and issues related to scale, security and availability
+Experience working with language and compiler design or crypto engineering
+Experience with and/or interest in some of the following areas:
+Distributed Systems
+Database and Large-scale Storage Systems
+Big Data Processing Systems
+Operating Systems
+Performance Analysis and Optimization
+Cryptography
+Blockchains
+Ethereum
+Comfortable operating in an Agile environment
+Collaborative by nature; willing to give and receive feedback
+Open to learning
+Understanding we are a globally distributed, remote-first team; Comfortable with handling uncertainty and ambiguity
+
+Don't check all of the boxes? Don't sweat it. We’re passionate about building a diverse team of humans and as such, if you think you've got what it takes for our chaotic-but-fun, remote-friendly, start-up environment—apply anyway. While we have a pretty good idea of what we need, we're ready for you to challenge our thinking on who needs to be in this role.
+
+Why join ConsenSys?
+
+Here are some of the perks of being part of a unique organization like ConsenSys
+One of the most recognized tech companies in the blockchain ecosystem globally. A work experience at ConsenSys is a tremendous reference for your future career. ConsenSys alumni have moved on to become tech entrepreneurs, CEOs, and team leads at tech companies.
+The forefront of a revolution. We fundamentally believe blockchain is a next generation of technology that can lay the foundation for a more just and equitable society. You can be a part of building the digital economy of tomorrow and radically transforming our society for the better.
+A dynamic startup environment with deep roots. We are one of the earliest blockchain companies and a leader in the space. You’ll join a network of entrepreneurs and technologists that reaches the edge of our ecosystem.
+Deep technical challenges. Blockchain technology is just over 10 years old. Ethereum itself is still a toddler. There is much to be done before these platforms can scale to the order of millions or billions of users. We are building the tools, infrastructure and applications l that are pushing the technology forward.
+Continuous learning and improvements. You’ll be constantly exposed to new concepts, ideas and frameworks from your peers and as you work on different projects — challenging you to stay at the top of your game.
+
+ConsenSys is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our technology is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.
+
+ConsenSys is aware of fraudulent recruitment practices and we encourage all applicants to review our best practices to protect yourself which can be found here.
+
+Acerca del empleo
+Constella Intelligence is a leading global Digital Risk Protection business that works in partnership with some of the world’s largest organizations to safeguard what matters most and defeat digital risk. Its solutions are broad, collaborative and scalable, powered by a unique combination of proprietary data, technology and human expertise—including the largest breach data collection on the planet, with over 100 billion attributes and 45 billion curated identity records spanning 125 countries and 53 languages.
+
+The Cyber Intelligence Group is seeking a Data Engineer to join our growing team of data experts. You will work with our data initiatives and will ensure optimal data delivery is consistent throughout ongoing projects. You will be part of a dynamic, collaborative workplace where you will be challenged every single day. The successful candidate will handle data though the lifecycle of landing, curation, and refinement.
+
+Responsibilities for Data Engineer
+Analyze, normalize, validate, and curate large datasets
+Assembling large, complex sets of data to meet business requirements
+Analyze large amounts of information to discover trends and patterns
+Design and implement internal process improvements for greater scalability
+Work closely with frontend and backend engineers, product managers, and analysts
+Works with stakeholders and assists them with data-related technical issues
+Write technical reports based on your findings
+
+Basic Qualifications
+Experience as a Data Engineer or in a similar role
+Experience with data modeling, data warehousing, and building ETL pipelines
+Knowledge of data management fundamentals and data storage principles
+Experience in SQL
+Strong analytic skills, deductive reasoning and critical thinking
+Excellent oral and written communication skills
+Excellent problem solving and troubleshooting skills
+Knowledge of programming languages such as Python, GoLang, Scala, and Java
+Experience with encoding
+Experience using Linux command line interface
+Professional-level fluency in Spanish and English
+
+Preferred Qualifications
+Technical expertise with data models, data mining, and segmentation techniques
+Advanced working SQL knowledge and experience working with a variety of databases
+Experience performing root cause analysis on internal and external data and processes
+Experience with big data tools: Hadoop, Spark, Kafka, etc.
+Experience with AWS cloud services: EC2, EMR, RDS, Redshift
+History of successfully manipulating, processing and extracting value from large datasets
+Fluency in a third language is a strong plus (Russian, Chinese, French, Italian, German or Japanese...)
+
+Acerca del empleo
+Veeva is a mission-driven organization that aspires to help our customers in Life Sciences and Regulated industries bring their products to market, faster. We are shaped by our values: Do the Right Thing, Customer Success, Employee Success, and Speed. Our teams develop transformative cloud software, services, consulting, and data to make our customers more efficient and effective in everything they do. Veeva is a work anywhere company. You can work at home, at a customer site, or in an office on any given day. As a Public Benefit Corporation , you will also work for a company focused on making a positive impact on its customers, employees, and communities.
+
+The Role
+
+Veeva Link supports the life sciences industry to connect with key people to improve research and care. It helps professionals to find the right people for e.g. clinical trials, education programs, or advisory boards. This streamlined access helps to reduce the time to market important drugs, conduct trials with the most relevant experts in the respective field and spread information about new treatments to key people in the life science community. You can read more about Veeva Link on our product pages at https://www.veeva.com/products/veeva-link/ .
+
+The product we build approaches parts of this problem through allocation and aggregation of the publicly available information in GDPR conforming manner, respecting people's privacy.
+
+As a Data Engineer with focus on ETL, you will be responsible for developing solutions and implementing requirements for our product, especially loading data in a high-performing and reliable way from potentially unstable data sources. You will make sure that the data which is ingested has the highest quality and that the loaders are fault-tolerant.
+
+What You'll Do
+Enhance our data processing pipeline by implementing new loaders in Python and Java
+Implement monitoring and logging for data loaders
+Ensure successful scheduled execution for data loaders
+Stay up to date with new technologies that could benefit the Veeva Data Link processing platform
+Requirements
+Great skills in Java and Python
+Experience with crawling technology
+Experience writing software for the cloud (AWS, GCP or Azure)
+Good English oral and written communication skills
+Nice to Have
+Previously worked in agile environments
+Experience with expert systems
+Perks & Benefits
+Comprehensive benefits package
+Annual allocations for continuous learning, development & charitable contributions
+Fitness reimbursement
+Working from home is possible
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world. Veeva is committed to fostering a culture of inclusion and growing a diverse workforce. Diversity makes us stronger. It comes in many forms. Gender, race, ethnicity, religion, politics, sexual orientation, age, disability and life experience shape us all into unique individuals. We value people for the individuals they are and the contributions they can bring to our teams.
+
+
+Acerca del empleo
+*Please note that this can be a full remote working position*
+
+
+lastminute.com is looking for a Data Engineer for its Data & Analytics department team based in Madrid.
+
+The candidate will act within Data & Analytics department perimeters supporting, inspiring and delivering data integrations, data models, analysis, reports and dashboards to help the business look data in a comprehensive way, take proper decisions and steer directions of the units.
+
+Key Responsibilities
+
+
+Design, development and continuous improvements of end-to-end data pipelines
+Continuous improvement in delivery, applying engineering best practices to development, monitoring, and data quality of the data pipelines.
+Data model creation, design of ETL activities and unit tests
+Writing documents for mapping of data flows according to business rules
+
+Qualifications
+
+Essential
+
+
+1-2 years of experience in similar role in a fast-paced environment
+Advanced SQL language knowledge and programming languages (e.g. Java, Python)
+Demonstrable ability to work creatively and analytically with a strong attitude for problem solving
+Basic experience in Cloud environments (e.g.: GCP, AWS)
+Fluent in English both written and spoken
+Desirable
+
+
+Bachelor or master degree in Statistics, Mathematics, Engineering or Physics
+Understand stakeholders business areas and take ownership of their data need, collect/support business requirement definition - be able to influence and partner with them leveraging on an in-depth cross-functional data knowledge
+Performing analysis with the aim of providing insights and summaries to direct manager, the rest of the team and other functions
+Knowledge of statistical analysis techniques
+Good knowledge of Google Work Suite
+
+Additional Information
+
+Abilities/qualities
+
+
+Analytical and data driven mindset: improve the business providing insights coming from data
+Passionate about digital world, ambitious and motivated with a can-do attitude
+Open minded and proactiveness in problem solving
+Good communication skills with a willingness to challenge existing processes and applications
+Strong team player and excellent communicator
+Good interpersonal, communication and presentation skills
+What we offer
+
+
+
+
+Working in a fast paced and performance driven culture and in an international and agile environment
+Excellent work-life balance and flexible working hours
+Remote working culture
+Continuous learning environment: thanks to our Learning and Development team, you will have access to tech talks, internal soft skills and technical skills training and the opportunity to participate to events, seminars and conferences
+Access to O’Reilly online learning platform and continuous learning program with technical internals sessions on DWH, governance and big data
+Bleeding edge technology stack (GCP, Vertica, Talend, SPotfire and more ...)
+
+Acerca del empleo
+En Iwantic, primera agencia de selección especializada en perfiles digitales, reclutamos a los candidatos más brillantes para los empleos que están cambiando el mundo.
+
+Desde nuestra división de Big Data estamos buscando un/a Data Engineer para cliente final del sector industrial con sede en Madrid.
+
+
+Experiencia previa
+
+- Experiencia dilatada en el diseño e implementación de procesos ETL.
+
+- Experiencia en entornos data warehouse / data lake.
+
+- Control de lenguajes de programación en algunos de estos lenguajes: C, C#, Python, Maths, Java, R, SQL, Scala, Ruby y Perl.
+
+- Conocimiento en BBDD SQL y no SQL .
+
+- Uso de herramientas (Git, Gitlab, Jenkins, IntelliJ IDEA, Docker, Gradle) y programas que agilicen el procesamiento de datos.
+
+Requisitos
+
+
+- Formación mínima en Ingeniería Técnica o Grado en Informática o bien en un Ciclo formativo de Grado Superior.
+
+- Inglés hablado y escrito nivel intermedio alto (B2 o superior)
+
+- Valorables conocimientos en Google Cloud Certified Professional Data Engineer
+
+
+Beneficios
+
+
+- Pertenecer a una compañía perteneciente al IBEX 35 CON 45 ubicaciones en todo el mundo y 8.500 trabajadores.
+
+- Salario competitivo, tickets restaurants y bonus por objetivo.
+
+- Trabajarías directamente en los headquarters de la compañía.
+
+
+¡Te estamos buscando!
+
+Contactar al anunciante de empleo
+
+Acerca del empleo
+Hola maj@! 🙋♂️
+
+
+Formar parte de Hiberus Tecnología significa crecimiento, pasión por la tecnología, interés por la innovación, ambiente laboral flexible y colaborativo, compañerismo, aprendizaje, formación continua, motivación y superación ante nuevos retos...y esto es solo el principio.
+
+
+Somos una tecnológica de negocios digitales HIPERESPECIALIZADA; cada una de las áreas de desarrollo está especializada en la línea de negocio específica, donde lo que nos diferencia es que damos un servicio 360º.
+
+En Hiberus estamos viviendo un crecimiento explosivo 💥 y queremos que formes parte de nuestro equipo.
+
+
+Hemos llegado al objetivo de ser 1.500 empleados, facturación de 75M€, 21 delegaciones, 38 áreas de especialización tecnológica, 75% de clientes del IBEX35… ¡y todo lo que queda por llegar!
+
+El área de Data & Analytics se suma al objetivo de crecer exponencialmente en proyectos Cloud ☁️, por ello ofrecemos un nuevo curso desde nuestra Hiberus University 👨🏽💻 para HÉROES y HEROÍNAS que tengan interés en especializarse en el mundo de los Datos con trabajo de calidad asegurado.
+
+
+¿Qué buscamos?
+
+Buscamos a personas con formación y pasión en el mundo del dato, que tenga estudios en ingeniería informática, telecomunicaciones, matemáticas, físicas, estadística...
+
+
+No hace falta que tengas experiencia, simplemente que quieras formarte y unirte a la compañía española que mas ha crecido en el 2021.
+
+¿Qué aprenderás?
+
+Una formación muy completa de más de 350 horas sobre herramientas y procesos de Data, basada en módulos comunes y especializaciones. Aprenderás sobre Business Intelligence, ETL, SQL, Power BI, Python, Google Cloud, Airflow, Azure, Snowflake…
+
+¿En qué tipo de proyectos trabajaré?
+
+
+Big Data 👉 partners de las 3 nubes
+
+Business Intelligence & Analytics 👉 herramientas DWH
+
+Business Intelligence 2.0 👉 partners de principales herramientas de visualización
+
+Machine Learning 👉 Inteligencia Artificial
+
+¿Qué me encontraré en Hiberus?
+
+Ambiente familiar, cercano, ¡como una gran familia!
+
+Conciliación familiar y laboral mediante horario flexible, acuerdos de teletrabajo, jornada intensiva viernes y verano.
+
+Cultura “techie”, nos gusta estar en contacto con la tecnología, herramientas, y últimas novedades!
+
+Suena bien, ¿verdad? Si quieres saber más, ¡inscríbete y te contamos!
+
+#somoshiberus #lascosasocurrenaquí
+
+Contactar al anunciante de empleo
+
+Acerca del empleo
+Profile
+
+You are a professional who is passionate about improving healthcare and having a real impact. You have developed yourself as a data engineer with expertise in the medical domain and its standards. Using your skills and knowledge, you need to be able to design and implement data pipelines, mostly from FHIR to CTcue’s Common Data Model. You have an appetite to learn and to develop yourself, an innate curiosity, and you can bring to light clarity around abstract and unclear problems. You feel comfortable working in a self-organizing company.
+
+Requirements
+You have experience with Python
+You have experience with FHIR entities and querying its API layer
+Implementations are done with a focus on testability (Test Driven Development) and scalability in mind
+You are comfortable writing SQL (DDL, DML)
+You can clearly explain and translate conceptual ideas to fellow data engineers and other development teams
+You have excellent written and verbal English skills
+What You Will Do
+Collaborate on mapping FHIR profiles to the CTcue Common Data Model
+Develop SQL data transformations and connectors for new FHIR profiles
+Integrate FHIR as one of the main data sources within CTcue’s existing dataflow ecosystem
+Collaborate on improving the CTcue datawarehouse & dataflow ecosystem using SQL and Python
+Provide support for existing (FHIR) pipelines either by providing operational support, python module maintenance or adjusting SQL layers
+Collaborate with a global team, keeping the bigger picture in mind
+Nice to have
+Eagerness to learn more and stay up to date with data engineering best practices and advances in medical standards
+You have designed, developed or worked with data pipelines before (e.g. Prefect, Airflow, Luigi, Dagster)
+At IQVIA, we believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. The advanced analytics, technology solutions and contract research services we provide to the life sciences industry are made possible by our 70,000+ employees around the world who apply their insight, curiosity and intellectual courage every step of the way. Learn more at jobs.iqvia.com.
+
+Acerca del empleo
+About Our Company
+
+Schneider Electric is the global specialist in energy management and automation. With revenues of ~€25 billion in FY2018, our 144,000+ employees serve customers in over 100 countries, helping them to manage their energy and process in ways that are safe, reliable, efficient and sustainable. From the simplest of switches to complex operational systems, our technology, software and services improve the way our customers manage and automate their operations. Our connected technologies reshape industries, transform cities and enrich lives.
+
+At Schneider Electric, we call this Life Is On.
+
+Job purpose
+
+At Digital Data Hub team of Schneider Digital, we are building Intel Data Store (IntelDS), a global Data Lake for enterprise data. It is a Big Data platform fully hosted on AWS and connected today to more than 40 data sources.
+
+The job purpose is to support the big data engineering team building and improving IntelDS by:
+Connecting new sources to enrich the data scope of the platform
+Design and develop new features based on consumer application requests to ingest data in the different layers of IntelDS
+Automate the integration and delivery of data objects and data pipelines
+
+Direct reports
+Not applicable
+
+Duties And Responsibilities
+
+The duties and responsibilities of this job are to make prepare data and make it available in an efficient and optimized format for consumer analytics, BI, or data science applications. It requires to work with current technologies used by IntelDS and in particular Spark, Presto, and RedShift on AWS environment. This includes:
+Design and develop new data ingestion patterns into IntelDS raw and/or unified data layers based on the requirements and needs for connecting new data sources or for building new data objects. Working in ingestion patterns allow to automate the data pipelines.
+Participate to and apply DevSecOps practices by automating the integration and delivery of data pipelines in a cloud environment. This can include the design and implementation of end-to-end data integration tests and/or CICD pipelines.
+Analyse existing data models, identify and implement performance optimizations for data ingestion and data consumption. The objective is to accelerate data availability within the platform and to consumer applications. Target technologies are Apache Spark, Apache Presto and RedShift.
+Support client applications in connecting and consuming data from the platform, and ensure they follow our guidelines and best practices.
+Participate in the monitoring of the platform and debugging of detected issues and bugs.
+
+Qualifications
+
+Minimum of 2 years prior experience as data engineer with proven experience on Big Data and Data Lakes on a cloud environment.
+
+Bachelor or Master degree in computer science or applied mathematics (or equivalent).
+
+Qualifications include:
+Proven experience working with data pipelines / ETL / BI regardless of the technology
+Proven experience working with AWS including at least 4 of: RedShift, S3, EMR, Cloud Formation, DynamoDB, RDS, lambda
+Big Data technologies and distributed systems: one of Spark, Presto or Hive
+Python langage: scripting and object oriented
+Fluency in SQL for datawarehousing (RedShift in particular is a plus)
+Familiar with GIT, Linux, CI/CD pipelines is a plus
+Autonomous, agile, takes the initiative and team player
+
+Travel %
+Not applicable
+
+About Schneider Electric
+
+Schneider Electric is leading the Digital Transformation of Energy Management and Automation in Homes, Buildings, Data Centers, Infrastructure and Industries.
+
+With global presence in over 100 countries, Schneider is the undisputable leader in Power Management - Medium Voltage, Low Voltage and Secure Power, and in Automation Systems. We provide integrated efficiency solutions, combining energy, automation and software.
+
+In our global Ecosystem, we collaborate with the largest Partner, Integrator and Developer Community on our Open Platform to deliver real-time control and operational efficiency.
+
+We believe that great people and partners make Schneider a great company and that our commitment to Innovation, Diversity and Sustainability ensures that Life Is On everywhere, for everyone and at every moment. www.schneider-electric.com
+
+What's in it for me?
+(add additional benefits specific to job here)
+
+Who will you report to?
+
+Let us learn about you! Apply today.
+
+Why us?
+
+Schneider Electric is leading the digital transformation of energy management and automation. Our technologies enable the world to use energy in a safe, efficient and sustainable manner. We strive to promote a global economy that is both ecologically viable and highly productive.
+
+€25.7bn global revenue
+
+137 000+ employees in 100+ countries
+
+45% of revenue from IoT
+
+5% of revenue devoted for R&D
+
+You must submit an online application to be considered for any position with us. This position will be posted until filled
+
+It is the policy of Schneider Electric to provide equal employment and advancement opportunities in the areas of recruiting, hiring, training, transferring, and promoting all qualified individuals regardless of race, religion, color, gender, disability, national origin, ancestry, age, military status, sexual orientation, marital status, or any other legally protected characteristic or conduct. Concerning agencies: Schneider Electric does not accept unsolicited resumes and will not be responsible for fees related to such.
+
+Acerca del empleo
+Joining the TUI Musement Data Science & Analytics Team as a Data Engineer, you will be providing support to the business experts in TUI Musement in the definition of the requirements for the Data ecosystem and ensure the design, construction and testing of the solutions.
+
+TUI Musement, or TUI MM for short, is the world’s leading provider of destination experiences. With 9,000 diverse employees in 49 countries and head office locations including Palma de Mallorca, Luton and Hannover. We offer 14 million guests a portfolio of excursions, activities, tours, transfers and guest services. TUI DX is part of TUI Group, the world's leading tourism group.
+
+About The Job
+Delivering high-quality Data solutions for TUI MM in accordance with the agreed SLA´s and within the budget
+Create and maintain optimal data pipeline architecture
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.
+Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+Follow and maintain operational and control procedures as a part of an agile team
+Help in the design and modeling of the Data in an Enterprise Data Platform and provide effective solutions in a cloud environment
+
+About You
+Experience building processes supporting data transformation, data structures, metadata, dependency and workload management.
+Experience with big data tools: Hadoop, Spark, Kafka, etc.
+Experience with relational SQL and NoSQL databases, including Snowflake and DynamoDB.
+Experience with data pipeline and workflow management tools: Airflow, Azkaban, Luigi etc.
+Experience with AWS cloud services: EC2, EMR, RDS, etc.
+Experience with stream-processing systems: Spark-Streaming, Kinesys, etc.
+Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+Experience with BI tools like PowerBI, Tableau.
+Analytical, conceptual and implementation skills
+Passion for learning without fear of failure in a passionate and agile team
+Excellent communicator, both verbal and written, in English. Comfortable communicating high level concepts to senior stakeholders whilst also being able to delve into the detail of complex changes when required
+
+About Our Offer
+Competitive salary and benefits as standard
+Career progression opportunities in more than 50 countries worldwide
+Develop yourself as part of a friendly, richly diverse and virtual international team
+Exceptional approach to your learning - access to free learning platforms & language lessons
+
+TUI Musement is a leading Tours & Activities business. It combines a scalable digital platform with local service delivery, to offer excursions, activities, tickets and transfers in more than 50 countries worldwide. There are over 130,000 ‘things to do’ in all major holiday and city destinations, which are distributed through B2B partners, via the Musement and TUI websites and direct to TUI customers. We also offer services to cruise lines through Intercruises Shoreside & Port Services in ports worldwide. TUI Musement sold around 10 million excursions, tours and activities delivered by our international colleagues located around the world and is one of the major growth areas of TUI Group.
+
+In 2018, TUI’s Tours & Activities division acquired Musement, a leading traveltech start-up. Following a two-year transition period, both became one fully integrated business - known as TUI Musement - combining the global reach, strong resources and high quality in-destination service delivery of TUI, with the digital capabilities, agile working methodology and start-up mindset of Musement.
+
+We love to see your uniqueness shine through and inspire the future of travel. If you would like to read more about what Diversity & Inclusion means to us simply visit Our DNA.
+
+#TUIJobs #TUIMusement
+
+Acerca del empleo
+Are you eager to learn? Veepee offers you a variety of trades to develop your career, enabling you to renew your skills constantly. Tech, logistics, sales, marketing, sales production: join us on an exciting, digital-centred journey.
+
+
+In 2018 we launched <vpTech/> - the IT community of Veepee. Our teams are widely distributed within the offices in Paris, Lyon, Nantes, Nice, Barcelona, Brussels, Warsaw, Amsterdam and Tel-Aviv.
+
+
+As a data engineer, you will join one of our Data Science Teams, which is fully cloud-native and distributed between Paris, Barcelona and Brussels.
+
+The team’s responsibility lies in providing forecasts to operational and business entities within Veepee.
+
+
+Your mission will be to support the team in building data pipelines, deploying machine learning models on GCP and developing microservices to expose ML-based predictions to customer-facing products.
+
+
+Responsibilities:
+
+Develop, deploy and maintain high-load API’s on Kubernetes with strong SLA requirements and high business value;
+Version and deploy machine learning models at scale in a cloud environment;
+In the context of machine learning projects, develop and maintain data pipelines and ensure data quality;
+Identify, design, and implement internal process improvements: automating manual processes, optimizing code and data delivery, re-designing infrastructure for greater scalability etc;
+Keep improving your technical knowledge and expertise by animating the Veepee data engineering community, attending conferences, contributing to open-source projects, organizing and attending meetups.
+
+Requirements:
+
+At least 3 to 5 years experience in software engineering, preferably in the data field;
+Strong knowledge of Java, SQL, and Python;
+Experience with data processing technologies like Apache Beam (or Flink), Spark, Kafka, etc;
+Experience with distributed data systems: No-SQL databases (HBase, BigTable), data lakes (BigQuery), storage (HDFS);
+Used to work in a cloud environment (GCP, AWS, Azure,...);
+Familiar with the concepts of a microservice architecture. Prior experience with deploying containers on a platform like Kubernetes and its ecosystem is a big plus;
+Proficiency with version control Git;
+Experience with tools like dbt is a plus;
+Interest in machine learning and data analytics;
+A strong team player, willing to share knowledge with other team members and help out where needed;
+Strong verbal and written English language skills.
+
+What we offer:
+
+The dynamic and creative environment within international teams;
+Opportunity to work on a large-scale e-commerce platform with tens of millions of users across Europe;
+Be part of our vpTech IT community of >800 tech enthusiasts;
+The variety of self-education courses on our e-learning platform;
+The participation in meetups and conferences sponsored by vpTech locally and internationally;
+3 days of remote work per week or remotely if you prefer so;
+Excellent team spirit and thriving after-work atmosphere.
+
+
+Autonomy is a key to success in Veepee.
+
+We are boosting innovation at every step of product development inside Veepee. In order to reach the group goals in the best and the most efficient way, we stick to the feature team-based structure. Hence, most of our teams are autonomous and self-managed when it comes to choosing the tech stack and determining the road map.
+
+
+So, if you are driven by quality and teamwork, if you want to make an impact, to learn and share knowledge, to be a part of the fast-paced digital environment, check out our tech stack below https://careers.veepee.com/en/vptech/ and start your journey.
+
+Acerca del empleo
+More recently, we have acquired the green energy start up Umeme in order to bring the green energy revolution to the Spanish market.
+
+
+It's in making this vision a reality that we are looking for you to help us achieve this.
+
+
+At Octopus we’ve developed a data platform that provides data services to the business in the UK and our retail energy businesses around the world. The platform enables self-service of data analytics to hundreds of data hungry users as well as automation of all our data workflows from simple ETL jobs to ML training and prediction.
+
+
+The data platform team works across the whole customer domain on anything from natural language understanding of our customer communications to processing billions of smart meter readings to build customised smart energy tariffs.
+
+
+As the volume, scope and geographical range of our data services rapidly expand, we’re looking for an experienced data engineer to join the team to help us build and maintain our platform, pipelines and data sources.
+
+
+This is a fantastic opportunity to work on data problems that genuinely move us closer to Net Zero with a company that is passionate about building great technology to change the way customers use energy.
+
+
+We employ software engineering best practices to design, test, and deploy our data platform and services. The projects will be varied and we’re looking for someone who can work autonomously and proactively to scope problems and solve and deliver pragmatic solutions
+
+
+What you'll do
+
+
+Build new data sources and data pipelines that deliver key data and insights to the business
+Work closely with the data science and analytics teams to maintain and develop our central data models in dbt
+Build and maintain testing and documentation frameworks for our data sources
+Work with the business to scope and deliver new data engineering projects and requirements
+Maintain and build on our existing data infrastructure and tools
+Support the internationalisation of our data infrastructure as we continue to grow globally
+
+Our Data Stack
+
+Python as our main programming language
+Kubernetes for data services and task orchestration
+Airflow purely for job scheduling and tracking
+Circle CI for continuous deployment
+Parquet and Delta file formats on S3 for data lake storage
+Spark for data processing
+dbt for data modelling
+Presto and SparkSQL for analytics
+Streamlet for data applications
+
+What you'll need
+
+First and foremost, we want our data engineers to be great software engineers with a passion for writing high quality code
+Python
+SQL
+Spark
+Experience modelling data for analytics - ideally experience using dbt as a modelling tool
+Experience in assuring data quality
+Experience deploying data services in a cloud environment (ideally AWS)
+
+Acerca del empleo
+We are looking for a Data Engineer to join our digital data team in the data architecture operation and governance team to build and operationalize data pipelines necessary for the enterprise data and analytics and insights initiatives, following industry standard practices and tools. The bulk of the work would be in building, managing, and optimizing data pipelines and then moving them effectively into production for key data and analytics consumers like business/data analysts, data scientists or any persona that needs curated data for data and analytics use cases across the enterprise. In addition, guarantee compliance with data governance and data security requirements while creating, improving, and operationalizing these integrated and reusable data pipelines.
+
+
+
+The data engineer will be the key interface in operationalizing data and analytics on behalf of the business unit(s) and organizational outcomes.
+
+
+
+
+
+Functions
+
+
+
+
+Must work with business team to understand requirements, and translate them into technical needs
+
+Gather and organize large and complex data assets, perform relevant analysis
+
+Ensure the quality of the data in coordination with Data Analysts and Data Scientists (peer validation)
+
+Propose and implement relevant data models for each business cases
+
+Optimize data models and workflows
+
+Communicate results and findings in a structured way
+
+Partner with Product Owner and Data Analysts to prioritize the pipeline implementation plan
+
+Partner with Data Analysts and Data scientists to design pipelines relevant for business requirements
+
+Leverage existing or create new "standard pipelines" within Sanofi to bring value through business use cases
+
+Ensure best practices in data manipulation are enforced end-to-end
+
+Actively contribute to Data governance community
+
+
+
+Requirements
+
+
+
+
+At least 5 years experiences in a data team as Data Engineer
+
+Experience in a healthcare industry is a strong plus
+
+Knowledge of AWS.
+
+Knowledge of Azure or GCP is a plus
+
+Orchestration: Airflow
+
+Project management & support: JIRA projects & service desk, Confluence, Teams
+
+Expert in ELT and ETL such as Informatica IICS, Databricks, Delta, Glue, …
+Expert in Relational database technologies and concepts:
+
+Perform SQL queries
+
+Create database models
+
+Maintain and improve queries performance
+
+Snowflake is a plus
+
+Working knowledge of Python and familiar with other scripting languages
+
+Good knowledge of cloud computing
+
+Conditions
+
+
+Long term contract. Direct hiring by this multinational company.
+
+Very attractive and competitive salary (according to the skills and experience of the candidate) and social benefits.
+
+Starting Day: ASAP
+
+Location: Barcelona (40% remote work)
+
+Contactar al anunciante de empleo
+Perfil del anunciante de empleo
+Jorge Vega Pérez
+Senior recruiter of highly skilled IT Professionals and Scientifics for projects throughout Europe.
+
+Ubicación del anunciante de empleo
+Madrid, Community of Madrid, Spain
+
+Enviar mensaje InMail
+
+Acerca del empleo
+Presentación de la compañía
+
+Fashion meets technology. Purpose meets impact.
+
+We are committed to connecting people to what matters most...time. Time to think differently. Time to see the good in every detail. Time to express individuality, Time to make the world greater, together.
+
+Do you want to work at a place that is more than a company, and instead home to a diverse and global family whose culture is rooted in the belief that we are Greater Together? Does partnering with some of the world’s greatest brands to create distinctive watches, wearables, and accessories like no one else excite you?
+
+Are you passionate about working to make the world better and doing what’s good for our people, planet, and communities? Then you're in good company because so are we!
+
+We are excited to grow our team of authentic and curious individuals who aren’t afraid to roll up their sleeves, fail fast to create even bigger wins, make a lasting impact...all while having fun along the way!
+
+Together, we can fulfill our mission to connect people to what matters most through innovation, style, connectivity, and purpose.
+
+If this sounds like the place to grow your career, then let’s work together.
+
+Detalles del empleo
+
+We are looking for a Data Engineer to join our Global Analytics team. This position can be fully remote within Spain.
+
+If you have a passion for using data to improve the status quo. If you enjoy being a data enabler to the enterprise, then this may be the role for you. Working for a dynamic and global company, you will be supporting the enterprise in their quest to be data driven and customer-centric.
+
+Your Impact
+Collaborate with business users, IT staff and data scientists
+Become a data guru who knows how and where to start with data, and which pipelines are critical
+Be a key part of the team that defines data management best practices and strategy
+Educate the organization on existing data assets and how they can be used
+Help data scientists to prepare data and/or develop end-to-end data pipelines
+Take responsibility for streamlining data pipelines across the enterprise
+Perform data exploration and analysis
+Assist with programming, database modelling and data integration, supporting task automation
+Catalog new and existing data sources
+Enable access to resident and external data sources
+Support data governance efforts to establish and enforce guidelines for data collection, integration, and data management
+Who you are:
+
+Must Haves
+Analytical and naturally curious mind
+Excellent communication skills, including written and verbal proficiency in English
+Good understanding of relational and dimensional database modeling
+Demonstrated competence in multiple data integration techniques and tools
+Understanding of ETL vs ELT approaches
+High level of SQL language proficiency
+Excellent data analysis skills
+Experience using FTP, SFTP & SSH to move data between platforms
+Preferred
+Experience with data integration tools such as DataStage, Informatica, Azure Data Factory, BODS
+Experience visualizing data through tools like Tableau or Power BI
+Understanding of data protection and classification rules and methods
+Performing data analysis and DQ assessments
+Experience using tools such as Postman, WS FTP, MOVEit
+Python or similar programming language experience
+Experience working with Agile and Waterfall methodologies
+Experience working with multiple database platforms such as BigQuery, Netezza, PostGRES, SQL Server, DB2, Oracle
+Nice To Haves
+Hands-on experience with APIGEE or Mulesoft
+Hands-on experience with Google data products such as BigQuery and dataproc
+Experience managing or integrating data with Salesforce products such as Commerce Cloud, Marketing Cloud and Service Cloud
+Exposure to CDPs such as Segment or Amperity
+We are looking for people who embody our core values; Authenticity, we are all in with our unique selves. Everyone is different at Fossil and we love it! Grit, we push through, we bounce back, and we set our sights on the prize & go after it. Curiosity, we ask what if? What's next? Sense of humor, we don't take ourselves too seriously. Yeah, seriously. Making an Impact we go big. We perform. We make a difference.
+
+Life is Short, Work Somewhere Awesome!
+
+Tipo de contrato
+
+Full Time
+
+Departamento
+
+Global Analytics
+
+Sobre nosotros
+
+Click here for more information
+
+Acerca del empleo
+¿Quieres encontrar tu mejor futuro? ¡Búscalo en Google! Descubrirás que no debes dejar pasar la oportunidad de unirte al equipo de Accenture líder en tecnologías de Google, el Accenture Google Business Group (AGBG).
+
+Somos un grupo flexible y ágil como las pequeñas empresas especialistas, pero con toda la fuerza y oportunidades de carrera profesional que la mayor y mejor empresa de servicios tecnológicos del mundo, Accenture, puede ofrecerte. Si te apasiona la tecnología ¡Éste es tu sitio!
+
+Cada vez hay más empresas moviéndose a la nube, y actualmente Google es la nube con mayor crecimiento, ¡Así que muchos de nuestros clientes te necesitan! Ayudémosles juntos desde Accenture a modernizarse sacando el máximo partido a la nube de Google.
+
+¿Por qué elegir Google Cloud para desarrollar tu carrera profesional?
+
+Google Cloud es la nube con mayor crecimiento, ¡Aprovecha esta ventaja en tu carrera profesional!
+
+Disfruta de la mejor tecnología, ¡Y de código abierto! Google ha creado y liberado algunos de los componentes de software más utilizados en la actualidad, como Kubernetes, Angular, MapReduce, HDFS, Android o Chromium.
+
+Trabaja tranquilo en la nube más segura, construida sobre la mayore red del mundo. ¡Google gestiona más del 25% del tráfico de internet!
+
+Maneja los datos mejor que nadie. ¡Usa la misma tecnología que el buscador de Google para la analítica de datos!
+
+Piensa en el planeta. Google es la nube más verde. Mientras otras nubes intentan llegar ser 100% renovables en 2025, ¡Google funciona en energía 100% renovable desde 2017!
+
+Como Ingeniero de Datos de Google Cloud harás posible la toma de decisiones basada en datos mediante la recopilación, transformación y publicación de estos. Deberás ser capaz de diseñar, construir, poner en funcionamiento, proteger y supervisar los sistemas de procesamiento de datos, con especial énfasis en la seguridad, el cumplimiento, la escalabilidad, la eficiencia, la confiabilidad, la fidelidad, la flexibilidad y la portabilidad. Además, debes ser capaz de aprovechar, implementar y entrenar constantemente los modelos preexistentes de aprendizaje automático. En tu día a día realizarás tareas como:
+
+Diseñar sistemas de procesamiento de datos
+
+Construir y poner en funcionamiento sistemas de procesamiento de datos
+
+Poner en funcionamiento modelos de aprendizaje automático
+
+Garantizar la calidad de las soluciones
+
+¿Cómo esperamos que lo hagas?
+
+Buscando aprender y disfrutar por el camino
+
+Trabajando con el equipo de Accenture-Google y del cliente para diseñar e implantar soluciones modernas y escalables
+
+Mostrando tu experiencia en Google Cloud
+
+Aportando tu conocimiento e ideas para innovar en la estrategia, el diseño y la ingeniería
+
+Demostrando buenas habilidades de comunicación para comprender y ser comprendido por el cliente
+
+Siendo flexible y apoyándote en metodologías ágiles y DevOps
+
+Actuando como mentor y referencia de los miembros del equipo con menor experiencia, ayudándoles a crecer y progresar
+
+Contribuyendo a generar y compartir conocimiento
+
+¿Qué esperamos de ti?
+
+Titulación técnica: Ingeniería Informática, Industrial, Telecomunicaciones u otras con experiencia equivalente (Matemáticas, Física, otras ingenierías, etc.)
+
++5 años de experiencia en el sector de TI
+
++3 años de experiencia implantando arquitecturas de datos en la nube en producción, preferiblemente en Google Cloud
+
++1 año de experiencia trabajando con metodologías agile y herramientas DevOps
+
+Conocimiento alto de tecnologías de Data, preferiblemente en Google Cloud
+
+Conocimiento alto de tecnologías de BigData, preferiblemente Spark, Hadoop, BigQuery y Bigtable
+
+Conocimiento alto de tecnologías de Streaming, preferiblemente Pub/Sub y Kafka
+
+Conocimiento alto en procesos de ETL
+
+Conocimiento alto de modelos, migración y calidad del dato
+
+Conocimiento medio de otros servicios básicos de Google Cloud
+
+Conocimiento medio de trabajos regulatorios y de cumplimiento en la gestión de datos
+
+Conocimiento medio de bases de datos SQL y NoSQL
+
+Certificación Google Associate Cloud Engineer o compromiso de estudiar y obtenerla en los primeros 6 meses
+
+Certificación Google Professional Data Engineer o compromiso de estudiar y obtenerla en los primeros 6 meses
+
+Acerca del empleo
+Our offer
+
+Tessella, el World Class Center de Analítica de Capgemini Engineering, tiene presencia internacional y una reputación por ofrecer un valor excepcional a partir de los datos (www.tessella.com). Sobre la base de nuestro éxito en el Reino Unido, EE. UU., España, Francia, Italia y los Países Bajos, Tessella continúa ampliando sus servicios de consultoría de análisis de datos. En esta función, brindará liderazgo analítico esencial a un equipo altamente capacitado, mientras participa en nuestro rápido crecimiento y expansión de nuestra base de clientes.
+
+Funciones
+
+Dentro de nuestra firma de consultoría de análisis de rápido crecimiento, usted será parte de un equipo de científicos e ingenieros de datos para resolver problemas interesantes del mundo real que marcan la diferencia.
+
+Requisitos
+Maestría o Doctorado en Ciencias, Informática, Matemáticas o Ingeniería.
+Experiencia profesional en proyectos del ámbito aeronáutico.
+Experiencia profesional con AWS.
+Experiencia profesional con Python, Docker, Spark.
+Experiencia profesional aplicando ciencia de datos, análisis, aprendizaje automático y técnicas computacionales.
+Un entusiasmo genuino por el uso de la ciencia de datos para resolver problemas complejos y una comprensión de los algoritmos, métodos de procesamiento de datos y técnicas de visualización requeridas.
+Capacidad de nivel profesional en los idiomas español e inglés.
+Sobre Nosotros
+
+Tessella es World Class Center de Analítica de Capgemini Engineering. Tenemos presencia internacional y reputación por brindar un valor comercial excepcional a partir de los datos. Esto se ha logrado a través de más de 30 años de compromiso con las ciencias de datos y mediante la creación de nuestro equipo de más de 250 de los mejores científicos e ingenieros de datos. Prosperamos en problemas complejos donde el pensamiento innovador ofrece soluciones óptimas que deleitan a nuestros clientes y que agregan valor real a sus negocios; p.ej. aumentar la productividad en el desarrollo de nuevos medicamentos; diseñar satélites para observar y comprender el universo; aprovechar el poder de fusión para proporcionar energía limpia e ilimitada.
+
+Tessella es una subsidiaria de Capgemini Engineering, líder mundial en innovación y servicios de ingeniería de alta tecnología.
+
+Acerca del empleo
+Data engineer
+
+
+Requerimos varios perfil@s de data engineer con experiencia en proyectos cloudera(spark,hdfs...) para proyectos remotos
+
+
+Os ofrecemos:
+
+proyectos estables
+Teletrabajo
+Formación
+Crecimiento profesional
+Acerca del empleo
+HAYS TECHNOLOGY es la Línea de Consultoría de Negocio del Grupo HAYS
+
+
+Desde Hays Technology, estamos colaborando con una compañía nacida en Barcelona en 2012. Dicha compañía cuenta con más de 100 personas cada uno de ellos experto en su área de especialización, siendo flexible a cada cliente y escenario, pero procedimental, para garantizar la calidad y el éxito de los proyectos. Está orientada a proporcionar soluciones de negocio con base tecnológica.
+
+
+Tiene el objetivo de ser el socio de Microsoft más innovador en España en todos los proyectos relacionados con Cloud e Inteligencia Artificial. La compañía tiene un expertise profundo en Azure ayudando a sus clientes con la adopción, migración e innovación en la nube, aportando inteligencia y reinventando la productividad situando a las personas en el centro.
+
+
+Actualmente buscamos un /a Data Engineer para incorporarse a su equipo, y dar soporte en un Proyecto de la mano con Microsoft.
+
+
+
+¿Cuáles serán tus funciones?
+
+
+· Aportar a la digitalización de todo el negocio de un cliente basado en IoT e Inteligencia Artificial.
+
+
+¿Cuáles son los requisitos?
+
+
+· Experiencia de al menos 3 años como Data Engineer, con expertise en Spark/Pyspark, Eventhubs, e idealmente servicios de datos en Cloud de Microsoft (Data Factory).
+
+· Imprescindible experiencia en Azure.
+
+· Deseable Team Player.
+
+· Valorable inglés.
+
+
+¿Qué ofrecemos?
+
+
+· Proyecto estable con salario competitivo.
+
+· Trabajo 100% remoto.
+
+· Ubicación de la oficina: Barcelona y Madrid.
+
+
+Estamos esperando perfiles como el tuyo, apasionados con la tecnología y que quiera enfrentarse a un nuevo reto. Si es tu caso, inscríbete en la oferta para que podamos contarte más!
+Acerca del empleo
+Buscamos un experto en Oracle SQL y Scripting para trabajar en empresa especializada en productos de decisiones y comunicaciones en tiempo real para banca, orientados a filtrar y analizar eventos transaccionales y datos de inteligencia de clientes.
+
+Nuestro cliente opera en más de 15 países con más de 170M de clientes financieros atendidos cada día con nuestros productos de análisis en RT.
+
+
+Perfil de conocimientos combinados fuertes en SQL + fortalezas en el manejos de sistemas Linux combinados con CI/CD para apoyar las pruebas continuas/QA del ámbito de BD con el uso de Scripting (Pyton,Perl, Bash)
+
+
+Desempeñará principalmente las siguientes funciones:
+
+a) Apoyar el análisis y diseño de la evolución del modelado de datos del producto.
+
+b) Pruebas continuas del modelo de datos/querys identificando posibles debilidades y mejoras.
+
+c) Apoyo segundo nivel de posibles incidencias de producto del ámbito de BD.
+
+
+El reto es participar activamente desde el equipo de BD/SQL en la misión de seguir optimizando y mejorando el funcionamiento de los productos e identificando los mejores modelos y herramientas para dicho fin.
+
+
+Se ofrece a futuro participar del proceso de mejora continua de nuestro software de infraestructura en el nuevo paradigma de combinar los modelos tradicionales de BD con los nuevos modelos NoSQL tipo clave=valor, o modelos de persistencia predictiva.
+
+
+Requisitos mínimos:
+
+Experiencia minima de 2 años en:
+
+Desarrollo de sentencias SQL .
+Experiencia en procesos de scripting de automatización de juegos de pruebas y cargas (Perl,Python, Bash)
+Conocimientos de Linux
+Experiencia/uso con herramientas de control de Versiones (GIT, SVM)
+Conocimiento de Oracle
+Se valorará:
+
+Experiencia con CI/CD (Jenkins) // entornos Dockerizados.
+Administracion & Tunning de PostgreSQL (Autovacuum, Tablas particionadas)
+Manejo en entornos cloud (Azure o AWS/RDS) y sus BD as a Service
+Conocimientos en Redis y BD noSQL
+Conocimiento JEE
+
+Qué se ofrece:
+
+Trabajo con un equipo de alto rendimiento, con alto grado de especialización
+
+Oportunidad de crecer profesionalmente en un entorno desafiante
+
+Remote-friendly /Team based in Barcelona.
+
+Seguro Médico / Seguro de transporte / TicketRest ... etc
+
+Contrato indefinido / Salario competitivo adaptado según capacidades y experiencia.
+
+Contactar al anunciante de empleo
+Perfil del anunciante de empleo
+Cristina Borrell
+Co-founder en inITium HR
+
+Ubicación del anunciante de empleo
+Greater Barcelona Metropolitan Area
+
+Enviar mensaje InMail
+
+Acerca del empleo
+Hola maj@! 🙋♂️
+
+
+Formar parte de Hiberus Tecnología significa crecimiento, pasión por la tecnología, interés por la innovación, ambiente laboral flexible y colaborativo, compañerismo, aprendizaje, formación continua, motivación y superación ante nuevos retos...y esto es solo el principio.
+
+
+Somos una tecnológica de negocios digitales HIPERESPECIALIZADA; cada una de las áreas de desarrollo está especializada en la línea de negocio específica, donde lo que nos diferencia es que damos un servicio 360º.
+
+En Hiberus estamos viviendo un crecimiento explosivo 💥 y queremos que formes parte de nuestro equipo.
+
+
+Hemos llegado al objetivo de ser 1.500 empleados, facturación de 75M€, 21 delegaciones, 38 áreas de especialización tecnológica, 75% de clientes del IBEX35… ¡y todo lo que queda por llegar!
+
+El área de Data & Analytics se suma al objetivo de crecer exponencialmente en proyectos Cloud ☁️, por ello ofrecemos un nuevo curso desde nuestra Hiberus University 👨🏽💻 para HÉROES y HEROÍNAS que tengan interés en especializarse en el mundo de los Datos con trabajo de calidad asegurado.
+
+
+¿Qué buscamos?
+
+Buscamos a personas con formación y pasión en el mundo del dato, que tenga estudios en ingeniería informática, telecomunicaciones, matemáticas, físicas, estadística...
+
+
+No hace falta que tengas experiencia, simplemente que quieras formarte y unirte a la compañía española que mas ha crecido en el 2021.
+
+¿Qué aprenderás?
+
+Una formación muy completa de más de 350 horas sobre herramientas y procesos de Data, basada en módulos comunes y especializaciones. Aprenderás sobre Business Intelligence, ETL, SQL, Power BI, Python, Google Cloud, Airflow, Azure, Snowflake…
+
+¿En qué tipo de proyectos trabajaré?
+
+
+Big Data 👉 partners de las 3 nubes
+
+Business Intelligence & Analytics 👉 herramientas DWH
+
+Business Intelligence 2.0 👉 partners de principales herramientas de visualización
+
+Machine Learning 👉 Inteligencia Artificial
+
+¿Qué me encontraré en Hiberus?
+
+Ambiente familiar, cercano, ¡como una gran familia!
+
+Conciliación familiar y laboral mediante horario flexible, acuerdos de teletrabajo, jornada intensiva viernes y verano.
+
+Cultura “techie”, nos gusta estar en contacto con la tecnología, herramientas, y últimas novedades!
+
+Suena bien, ¿verdad? Si quieres saber más, ¡inscríbete y te contamos!
+
+#somoshiberus #lascosasocurrenaquí
+
+Contactar al anunciante de empleo
+Perfil del anunciante de empleo
+Víctor Vidaller
+Talent Acquisition Manager #somosHiberus y tú? Te animas?🚀
+
+Ubicación del anunciante de empleo
+Greater Zaragoza Metropolitan Area
+
+Enviar mensaje InMail
+
+Acerca del empleo
+Estás buscando nuevos horizontes profesionales? ¿Un lugar en el que poder desarrollarte profesionalmente? Podemos ayudarte para que sea una realidad. Actualmente estamos en la búsqueda de un profesional con experiencia laboral de al menos 2 años como Data Engineer con buen nivel de inglés hablado, con inquietud por crecer. Para formar parte de dentro de un gran proyecto estable para el sector farmacéutico.
+
+
+¿Qué te ofrecemos?
+
+-Teletrabajo al menos dos días a la semana.
+
+-Ubicación: Cerca del hospital Ramón y Cajal.
+
+-Beneficios sociales(Cheques Restaurante+ seguro médico)
+
+-Proyecto internacional, hablando con nativos americanos.
+
+-Proyecto estable(contrato indefinido)
+
+-Salario competitivo en función de la experiencia aportada en el puesto
+
+-Incorporación a un grupo con más de 70.000 profesionales, distribuidos a lo largo de 9 países, aprendizaje continuo.
+
+-Buen ambiente de trabajo junto a compañeros que son altamente cualificados en sus tecnologías y de los que aprenderás cada día.
+
+-Ofrecemos la oportunidad de trabajar con un equipo altamente cualificado.
+
+
+Requisitos imprescindibles:
+
+-Experiencia laboral con python (procesos usando Panda).
+
+-Experiencia laboral en SQL server,no solo a nivel de hacer queries sino que te puedas meter a ver store procedures y triggers)
+
+-Experiencia laboral en entornos cloud(se valora positivamente que sea con Azure)
+
+-Muy buen nivel de inglés hablado, para comunicarse diariamente con Nativos americanos en inglés.
+
+
+Descripción del proyecto:
+
+-Se trabajaría en el equipo de ingeniería de datos. Con lo que, se trabaja la parten Backend a nivel de modelar en python, se realizan transformaciones con python, spark, scala y Sql no solo a nivel de Querys también crean tablas, hacen extracciones de sql, optimización de datos. Se hace a través de Azure. El trabajo sería armonizar tablas, eliminar información duplicada, se monta la estructura se puede usar hive y luego se realiza un modelado final. Solo se habla en inglés puesto que los compañeros son nativos americanos.
+
+
+TE ESPERAMOS!
+
+Acerca del empleo
+Veeva is a mission-driven organization that aspires to help our customers in Life Sciences and Regulated industries bring their products to market, faster. We are shaped by our values: Do the Right Thing, Customer Success, Employee Success, and Speed. Our teams develop transformative cloud software, services, consulting, and data to make our customers more efficient and effective in everything they do. Veeva is a work anywhere company. You can work at home, at a customer site, or in an office on any given day. As a Public Benefit Corporation , you will also work for a company focused on making a positive impact on its customers, employees, and communities.
+
+The Role
+
+Veeva Link seeks a mid to senior Python Data Engineer that will participate in all aspects of architecting and developing new and innovative data pipelines and data handling. You will have the opportunity to work on cutting-edge technology and new product development in an established company that is rapidly growing. This is a great opportunity for an engineer looking to expand their well-established career, who is excited about search, solving complex problems, ownership, and who enjoys working with technologies like Python, ElasticSearch, and AWS.
+
+What You'll Do
+Participate in architecting and extending our data pipelines to accommodate the rising data amounts
+Collect data e.g., publications from doctors, meant for our production systems from several internal sources into a stable data set
+Make the data consumable for other teams using the right databases (e.g., ElasticSearch or Postgres) and APIs
+Requirements
+5+ years of working as a software or data engineer
+Very good Python knowledge with one widely used framework like Django, FastAPI, or Flask
+Very good knowledge of one widely used RDS like PostgreSQL, MySQL, MSSQL, or Oracle
+Good ElasticSearch and Git knowledge
+Excellent verbal and written communication in English
+Nice to Have
+Knowledge in data streaming, AWS, REST APIs and GraphQL
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world. Veeva is committed to fostering a culture of inclusion and growing a diverse workforce. Diversity makes us stronger. It comes in many forms. Gender, race, ethnicity, religion, politics, sexual orientation, age, disability and life experience shape us all into unique individuals. We value people for the individuals they are and the contributions they can bring to our teams.
+
+Acerca del empleo
+The Hotels Network (THN from now on) is a data platform for the hotel industry. Our monitoring and media delivery agent is currently embedded in over 10,000 Hotels and Online Booking engines, worldwide. It is responsible for transferring data to our platform and rendering tools and widgets. These allow the hotels to harvest advanced user behavioral metrics, personalize their website and trigger UI widgets to boost conversion.
+
+
+We are growing and we are looking for a Data Engineer to join our team.
+
+
+The Tech Stack:
+
+
+Our tech stack consists of: Vanilla Javascript / Typescript, Go, PHP and Vue.js for our UI applications and dashboards. Our multi-cloud infrastructure runs on Amazon Web Services and Google Cloud.
+
+We store data in MySQL, Redis, Clickhouse and other other storage systems. We love Kafka, event based and data-streaming architecture models and building great products as fast as possible following the best practices.
+
+
+Our monitoring Agent is built with Vanilla Javascript (transitioning soon to Typescript). It is the heart of everything we do. Performance is key to us just as it is for our customers. We build our monitoring agent to resiliently observe multiple services and handle large volumes of data. It deals with a lot of other services, and handles a lot of data.
+
+
+Our backend consists of a series of mini/micro services built with PHP or Go embracing a Domain Driven Architecture. Testing is in our DNA and we conduct comprehensive unit and integration testing across the board. We embrace process automation wherever possible and ensure the quality and performance of our platform with SonarCloud, Sentry and Datadog.
+
+
+Our solid data infrastructure is driven by our Data Engineering Team and relies on a modern, state-of-the-art platform supported by our DevOps and Infra teams. What makes THN stand out from any other player in this industry is our Data Science team, that designs and implements advanced ML/AI algorithms fueled by the massive data ingested by our Agent to help our clients predict their users behavior and improve their booking conversion. This position will play a pivotal role in ensuring our Data Science team gets the most valuable insights on our client’s users and target markets.
+
+
+The Team
+
+
+We are a globally distributed team of more than 70 engineers, half of them working remotely. We are organized in multiple cross functional teams and work using agile methodologies (mostly scrum). We value collaboration, team work, open communication, continuous learning and commitment.
+
+
+Responsibilities:
+
+
+Work in our Clickhouse cluster.
+Manage data infra like kafka and others.
+Monitor the data processes.
+Work with our team of Data Engineers.
+Ensure security through the data life cycle.
+Help developers get data from the different data sources.
+
+Requirements:
+
+
+At least 3 years of experience working with large volumes of data.
+Experience with SQL
+Experience with databases.
+Experience with Data Pipelines, Data Process & ETLs.
+Experience working with AWS.
+Experience with Kubernetes and Docker.
+Knowledge of systems security and data backup/recovery.
+Familiarity with various operating systems and platforms.
+Knowledge of Redis.
+Knowledge of Column Oriented DataBases
+Knowledge of streaming
+
+We Value
+
+
+Problem-solving skills.
+Customer focused.
+Able to work with a high degree of autonomy.
+Hands-on attitude and sense of initiative.
+Fun to work with.
+Knowledge of general tools and languages like Python, PHP, git, docker, NGINX, etc. is welcomed.
+
+We offer
+
+
+International environment with over 30 nationalities.
+Nice office in the Center of Barcelona.
+Have a real impact on a fast-growing innovative technology company.
+Continuous internal and external training.
+Healthy work life balance with flexible working hours and remote work policy.
+"Flexible compensation plan” with Ticket Restaurant, Ticket Transport and Bonus for Nursery.
+Coffee, tea, fresh fruit and Friday team breakfast.
+Competitive compensation.
+
+Acerca del empleo
+Description
+
+Guardian Industries, a Koch company , is currently seeking a Data Engineer.
+
+This position is mainly tasked with transforming data into a format that can be easily analyzed. They do this by developing, maintaining, and testing infrastructures for data generation. Data engineers work closely with data partners , data scientists and are largely in charge of architecting data solutions for data analytics purpose.
+
+Essential Duties & Responsibilities
+Participate in analysis sessions to understand functional and non-functional requirements
+Create/develop code and jobs in Talend while following enterprise best practices
+Provide technical insight and develop work estimates to project planners
+Should be responsible for building extraction and mapping rules for loading data from multiple sources for data warehouse implementation based on AWS Snowflake
+Must have strong knowledge on Data Warehousing (DWH) concepts, ETL concepts, data analysis capabilities and experience in the Talend Big-Data Real Time ETL tool.
+Work with business users to translate requirements into system flows, data flows, data mappings etc., and develop solutions to complex business problems
+Maintain workload and time tracking within Azure DevOps
+Development experience working in Agile Scrum environment
+Minimum Qualifications & Competencies
+4+ years of experience as an ETL developer with strong data architecture knowledge around data warehousing concepts, SQL development and optimization, and operational support models
+English Advanced
+Must have experience with Talend Big-Data Real Time Studio.
+Hands-on experience with Kafka, Kinesis or other datastreaming solution.
+Demonstrated ability to work in a team environment that requires quick turnaround and quality output.
+Experience with Azure DevOps
+Ability to work on multiple projects simultaneously with minimal supervision
+Guardian Industries is a standalone, wholly owned subsidiary of Koch Industries, Inc. With a presence in about 70 countries, Koch companies employ more than 120,000 people worldwide, in businesses that include transportation fuels, building and consumer products, electronics, fibers, fertilizers, glass, membrane filtration, pollution control equipment and more. Koch companies and their employees serve their communities by volunteering, mentoring, and supporting programs and organizations that enable people to improve their lives, find fulfillment and realize their full potential.
+
+Acerca del empleo
+Who we are
+
+The Workshop is a tech company that develops incredible software for the online gaming industry. Living by the motto “Fearlessly Forward,” innovation is at the centre of everything we do, whether it’s our games, new products, and technologies. We understand that great ideas come from great people, and great people thrive when they’re trusted to challenge, change, improve, and perfect our products and processes.
+
+
+Our strength lies in the diversity of our skills, and that comes from the diversity of our people. The Workshop is committed to being a diverse and inclusive workplace where we learn from each other, trust each other, and value collaboration. We welcome candidates of all genders, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, nationality, belief (or lack thereof,) and programming language preference. As an equal opportunity employer, we offer a pleasant, supportive place to work – whoever you are. It’s a place where you can try new ideas, take risks, and move Fearlessly Forward.
+
+
+The role
+
+The Workshop is currently looking for a Big Data Software Engineer to join our dynamic team in Malaga. The ideal candidate will have an outstanding knowledge of fast-moving and large volume data in multi-tiered data and analytics platforms.
+
+
+The role involves the design, development, implementation, and support of a cutting-edge real-time data platform, which includes including data streaming, a data lake, and a blazing fast analytics database. We are looking for someone who is passionate, motivated, driven, and up for the challenge.
+
+
+What you’ll do
+
+Design, develop and support the real-time data platform.
+Conceptualize, evaluate and build a proof of concepts on new models, tools, and techniques.
+Collaborate, peer review, cross skill, and share expertise with other team members.
+Performance tuning of the system and working on new ways to increase efficiency.
+
+What you'll bring
+
+Strong experience working with high velocity and high volume data, including good experience in handling relational, semi-structured, and unstructured data.
+Strong knowledge of database design and development with previous experience in developing ETL processes, and multidimensional data models.
+High understanding of both relational and multidimensional modeling principles.
+Deep knowledge of Object-Oriented Programming languages and must have a strong experience in Java, with Scala knowledge as nice to have.
+Solid experience with SQL queries and database tuning.
+Problem-solving skills, willingness to take ownership and risks, and enthusiasm in the face of technical knowledge.
+Excellent interpersonal skills and the ability to work in a team environment.
+Strong communication skills in English, both written and spoken
+
+Desirable experience
+
+Expertise with Kafka and knowledge of RabbitMQ.
+Good experience with data process technologies like Apache (Spark/Flink/Beam), Oracle ODI, and Confluent’s Platform.
+Good knowledge of Hadoop Cluster Architecture and hands-on experience within Cloudera Hadoop ecosystems.
+Knowledge of Exasol.
+Knowledge of any one of the scripting languages, such as Python, Shell Scripting or PERL.
+
+What’s in it for you
+
+Challenging and fulfilling work at an innovative, global company that uses cutting-edge tech
+Global work experience in an agile methodology
+International, friendly and inclusive multi-cultural environment (over 35 nationalities that speak altogether almost 30 languages!)
+Competitive salary and relocation packages for you and your family
+Playful office in the Technology Park of Málaga with a free, private bus connection from the city center
+Flexible working hours, well-being programs, learning and growth opportunities
+Team building events, learning labs, Hackathons/Designations, and extravagant corporate events
+Opportunity to shape the tech community inside and outside of The Workshop, mentoring and sharing knowledge with others
+Workplace perks including gaming consoles, darts, pool, foosball, books, massages, and a kitchen full of coffee, fruit, and even ice-cream
+
+Acerca del empleo
+About The Job
+
+Toptal developers work with speed and efficiency to deliver the highest quality of work. We are looking for someone who is passionate about their client’s business, and ready to work on exciting projects with Fortune 500 companies and Silicon Valley startups, with great rates and zero hassles. If you are looking for a place to advance your career, enhance your skill set, and build connections around the globe, Toptal is right for you.
+
+About Toptal
+
+Toptal is an exclusive network of top freelancers from around the world. Fortune 500 companies and Silicon Valley startups hire Toptal for their most important projects. Toptal is one of the fastest-growing fully remote networks and empowers freelance software developers, designers, finance experts, product managers, and project managers worldwide to grow and excel in their freelance careers.
+
+Toptal clients vary in sizes and industries, from enterprise organizations and big tech companies to Silicon Valley startups and renowned universities. Once you enter the network, our matchers will contact you with project opportunities that fit your expertise and preferences. We have experts in over 120 countries who get to work remotely on projects that meet their career ambitions.
+
+About The Role
+
+As a Data Engineer, your main goal is to be one step ahead of data scientists and analysts. You will support them by providing infrastructure and tools they can use to deliver end-to-end solutions to business problems that can be developed rapidly and maintained easily. This is more than building and maintaining ETL pipelines. We need innovation, creativity, and solutions that will have a significant impact on the client’s velocity.
+
+Requirements
+3+ years of professional experience in software development
+Working experience with Python and Pandas.
+Familiarity with the basic principles of distributed computing and data modeling.
+Extensive experience with object-oriented design and coding and testing patterns, including experience with engineering software platforms and data infrastructures.
+Working experience with Airflow and Luigi is a big plus.
+Working experience with Scala is a plus.
+Familiarity with Google Cloud Platform (e.g. GCS and BigQuery) is a plus.
+Working experience with Dimensional Modeling and Rails is a plus.
+Outstanding communication and interpersonal skills.
+Full-time availability is a strong advantage
+If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form to get started.
+
+#RemoteJobDataEngineering
+
+Acerca del empleo
+THE ROLE
+
+
+We are more than a support team. We enable the rapid but sustainable growth of Personio and ensure the financial health and legal stability of the organization. If you want to work and learn in an interdisciplinary team of Finance, Legal and Business Intelligence and want to make a difference from day one, the BIFL team is the right place for you.
+
+
+As a Data Engineer at Personio, you will have a crucial role at one of the fastest-growing B2B SaaS companies in Europe. In an emerging team, you will build up and extend a data platform, which ensures that we have the best environment to make fast data-driven decisions. Therefore, we are aiming for a standardized multi-interface data platform that can enable self-service delivery and end-to-end solutions for all data and BI-related use cases at Personio.
+
+
+With your experience, you will develop a short- and long-term strategy for the team to reach this goal in an iterative way by defining a generalized data integration and warehouse architecture with a strong focus on generating business value. Thereby you will handle structured and unstructured data, build batch and streaming processes, enable business intelligence solutions, facilitate interactions between tools and processes of different departments. Apart from that, you are also willing to share your knowledge with your colleagues and act for them as a role model and respected sparrings partner.
+
+
+
+Your tasks and responsibilities will include:
+
+
+Build, improve and extend a scalable and cloud-based data platform in an iterative way
+Develop resilient and performant data architectures in order to make life easier for the internal key users of our data
+Shape a cloud-based stream and batch processing solution to integrate external data sources and APIs
+Provide tools and advice for data ingestion, processing, and analysis to empower our teams in gaining valuable Insights
+Act as a direct interface to our Product & Engineering and Infrastructure teams for all technical business intelligence topics
+Ensure high flexibility by implementing microservices in our architecture
+Ensure ways to enhance data quality and reliability
+
+
+What you need to succeed
+
+
+University degree in Computer Science or equivalent experience
+Professional work experience with big data environment and in the cloud (e.g. hadoop, AWS, Azure, EMR) as well as with python
+Understanding of approaches to data storage and different data architectures (RDMBS, NOSQL databases, OLAP), proficiency with SQL
+Practice in clean code and test-driven development
+Knowledgeable about cloud infrastructure automation and management (e.g. Docker, Kubernetes, Gitlab CI)
+Experience in implementing event-driven data pipelines, consuming data from streaming or event broadcast platforms (e.g. kinesis, amazon SNS, amazon SQS) as a plus
+Familiarity in data integration with complex software systems and microservice architectures as a plus
+Living agile: Frequent development cycles, continuous delivery, and DevOps
+Logical and analytical thinking in combination with a high degree of data quality
+Communication and presentation skills
+Conscientious and autonomous working and being a team player
+Fluency in English (Level C1/C2)
+Strong desire to learn about new trends and technologies
+
+
+Why Personio
+
+
+
+Aside from our people, culture, and mission, there are a variety of additional benefits that help make Personio a great place to work! Work with us and receive:
+
+
+Competitive compensation package that includes salary, benefits, and virtual shares
+26 days of paid vacation + 2 days off for Christmas and New Year's Eve (because we love what we do, but we also love vacation!)
+Annual personal development budget of €1,500 for conferences, courses, books, career coach, etc.
+Regular company and team events like Oktoberfest, ski trips, Christmas parties, and more! (COVID permitting)
+Beautiful office located in the heart of Madrid
+Free English and Spanish language classes
+Lease a bike, paid for by Personio
+Parental benefit of 10 extra days off in case your child gets sick
+Monthly €162 tax-free stipend to help cover food and public transportation expenses
+Private Health insurance (company level plan): Access to Sanitas plan at a reduced employee cost (€43 for employees, spouse, or children)
+Discounts across a range of brands so you can save money while shopping at Adidas, LG, Bosch, Apple, Dia, etc.
+Find your best way to work with office-led, remote-friendly PersonioFlex! We offer a roughly 50% remote, 50% in-office working framework to suit your needs
+Mental health support, as we know that mental wellbeing plays a major role in both our personal and professional success. #PersonioCares
+Two Impact days you can use to have an impact on the environment and society. One day is for an individual project and one for a company-wide initiative! #SocialResponsibility
+
+
+Acerca del empleo
+Join a movement in which everyone can win. We started a movement in which everyone can win – shoppers, retailers, society, and every person on our team. To play fair, trust people and reward them for doing the right thing. We see and feel the impact of our work as more and more people gain financial freedom and retailers grow across the globe.
+
+
+Clearpay EU is part of the Afterpay Limited Family. Founded five years ago in Sydney, Australia, Afterpay and Clearpay have millions of active customers globally and are offered by the best retailers around the world including Boohoo, ASOS, Marks & Spencer, JD Sports, and many others. Afterpay is on a mission to power an economy in which everyone wins.
+
+
+Afterpay is completely free for customers who pay on time – helping people spend responsibly without incurring interest, fees, or extended debt. Afterpay empowers customers to access the things they want and need, while still allowing them to maintain financial wellness and control, by splitting payments in four, for both online and in-store purchases. Afterpay is deeply committed to delivering positive outcomes for customers. We are focused on supporting our community of shoppers.
+
+
+We trust in the next generation and share a vision of a more accessible and sustainable world in which people are rewarded for doing the right thing.
+
+
+The Opportunity
+
+Clearpay is looking for a Senior Data Engineer to be part of its Data Engineering pod, embedded into the Global Data Engineering and Platforms (GDP) team.
+
+The purpose of the GDP team is to design, develop, and maintain a scalable and easy-to-use Data Platform that helps Clearpay on its journey to becoming the world's most-loved way to pay. This is a great opportunity for someone with a DevOps or software engineering background who is experienced in cloud infrastructure and wants to build their career within a fast-growing, global company.
+
+
+What You’ll Be Doing
+
+- Procuring, Processing, and Providing data from myriad sources in the GDP.
+
+- Owning our data stack end to end. No intermediaries.
+
+- Collaborating cross-teams with data stakeholders and data producers to move projects forward.
+
+- Being a hands-on technical leader within the team who drives for internal excellence.
+
+
+About You
+
+- You love data engineering and get excited talking about data and analytics.
+
+- You love writing secure, clear, well-structured, and performant code and think data engineering should go by the same quality standards as software engineering.
+
+- You have a need for automating pointless repetitive work.
+
+- You believe in delivering useful solutions quickly and iteratively – we don’t care for perfection that takes months to show value.
+
+- You relish customers and embrace change as customer’s needs evolve.
+
+- You are a team player, which means being respectful, willing to co-create, and trust your team.
+
+
+Experience in:
+
+- Scripting and data processing languages (like Python and SQL)
+
+- Cloud infrastructure and infra-as-code (like AWS and Terraform)
+
+- Software engineering habits (like GitHub, unit test, CI/CD, and monitoring)
+
+- Schedulers (like Apache Airflow)
+
+- Data warehousing and big data processing technologies (like S3, Redshift, EMR, and Spark)
+
+
+You like to keep it real with your actions, be brave with your decisions, do the right thing for all our stakeholders, and shape the future with excitement.
+
+
+How we reward you
+
+We have a pay-for-performance culture so you can expect to be rewarded for high performance. We pride ourselves on fairness and offer a competitive total reward package made up of salary, incentives, and benefits.
+
+
+We have a strong focus on health and wellbeing at Afterpay as we aim to support you to succeed in both your career and personal lives, such as providing employees with:
+
+
+- A corporate membership to Headspace
+
+- Private Health Insurance
+
+- Competitive economical package (flexible compensation plan)
+
+- Career Development Opportunities (constantly learning new technologies, and professionally grow)
+
+- Training Program
+
+- Extended Annual Holiday Leave
+
+- Flexible Working Hours (half-day on Fridays)
+
+- Gym membership
+
+- Fresh organic fruit, Coffee & Tea
+
+- Team Building Activities
+
+- Employee Referral System
+
+- Language lessons
+
+- Friendly and supportive team
+
+- Great working environment
+
+
+We value diversity and a collaborative and inclusive environment where everyone feels they belong is important to us.
+
+
+How to Apply:
+
+We don’t know what the future holds. That’s the exciting part; we show up and make it happen. If you’re brave, if you’re committed to doing the right thing, and excited by this opportunity, click apply now!
+
+
+Afterpay is continuing to hire for all open roles with all interviewing and on-boarding done virtually due to COVID-19. All new team members, in addition to current staff, will temporarily work from home until it is safe to return to our offices.
+
+Acerca del empleo
+Our opportunity
+
+We are seeking an Engineer to join our Enterprise Data Analytics & Architecture (EDAA) organization within Group Operations Business Transformation.
+
+Your role
+
+As a Big Data Engineer your main responsibilities will involve
+
+Development of data processing pipelines using Spark/Scala.
+Development of tests using Spark/Scala.
+Hands on development and monitoring of the Azure cloud Platform and various associated components for data ingestion, transformation and processing.
+Effectively diagnosing, isolating, and resolving complex problems pertaining to data infrastructure, including performance tuning and optimization.
+Designing and program writing according to functional and non-functional requirements.
+Developing and maintaining technical documentation.
+Follows established configuration/change control processes
+
+Your Skills And Experience
+
+As a Big Data Engineer your skills and qualifications will ideally include:
+
+University level education or equivalent
+2+ years of experience working as a Software Engineer
+1+ Experience in functional programming (preferably Scala - big plus)
+1+ years of experience in Apache Spark 2.0 (big plus)
+Knowledge of design patterns
+Ability to write complex SQL queries
+A good understanding of distributed computation
+Bash scripting
+GIT
+
+Additional Information
+
+As well as a competitive salary and a yearly bonus we offer benefits package which includes:
+
+Option to work remotely within Spain even up to 100% - you choose
+Flexible working hours
+Wide range of internal and external trainings
+Free English, German and Spanish classes depending on the needs
+Ticket restaurant
+Life Insurance
+Pension Plan - after 1 year in the company
+Referral bonus if you bring other talented people like you
+Special banking and insurance conditions
+Exclusive Employees discounts
+
+Primary work location is Barcelona, Poblenou. Please apply with your CV in English.
+
+Who We Are
+
+Looking for a challenging and inspiring work environment where you can make a difference? At Zurich millions of individuals and businesses place their trust in our products and services every day. Our 53,000 employees worldwide form the basis of our success, enabling, businesses and communities to face a world of risk with confidence. Imagine if you could help people do this all over the world. You’d give them confidence and reassurance by protecting what they love most. It’s a big challenge, but you will be supported by a world-class team who believe in helping you to reach your full potential and deliver on our promises.
+
+So be challenged. Be inspired. Help us make a difference.
+
+At Zurich we are an equal opportunity employer. We attract and retain the best qualified individuals available, without regard to race/ethnicity, religion, gender, sexual orientation, age or disability.
+
+Acerca del empleo
+We are WIRIS, a software development company founded 20 years ago and headquartered in Barcelona with offices in the USA, Long Beach (California) since we acquired the American company Design Science in 2017.
+
+
+Wiris is continuously growing, not only in employee numbers, which keep increasing at double-digit rates, also in terms of products. We are currently more than 80 people revolutionizing the educational field with innovative products, enhancing our value proposition for our global customers such as NASA, Blackboard, Moodle, and Pearson among others; and our mission is to make people's STEM work more meaningful by creating software with deep knowledge in advanced technology and science.
+
+
+The role
+
+We strongly believe in data-driven decision-making, and we understand the importance of the data team and its growth. For this reason, we are looking for a Data Engineer to help us improve the new data lake (and its ETL) that we are building.
+
+
+The team
+
+We are currently 4 data engineers and scientists. We stand for being detail-oriented and team workers and we want you to be too. The team fancies serverless solutions and our infrastructure is on AWS. Our ETL works on AWS Lambdas, but we already have an eye on AWS Glue jobs and Spark. Moreover, we are exploring the possibility of using all those new technologies and solutions that arise.
+
+
+What’s like to work in our data team
+
+In your day-to-day work, you’ll write many tests and documentation, you will do pair programming, you will review PRs, you will have many conversations with the rest of the team about the problems that arise, and you will discuss with our usual stakeholders (product management, marketing, and sales).
+
+
+
+Key responsibilities
+
+Be the data lake warden. No data will be moved and/or transformed without your permission or knowledge.
+Collect, process, and clean data from different sources to be stored in our data lake.
+Design, implement and maintain scalable ETL data pipelines using cloud technologies that produce reliable insights.
+Work with stakeholders to assist with data-related problems and support their data/information needs.
+Caring about documentation and quality both in-process and implementation.
+Be an active member of the team, acting as a mentor to other teammates. You will have an active role and your opinion will count.
+
+Job Requirements
+
+B.S / MSc in Computer Science or related fields or equivalent experience.
+Proven experience as a data engineer or a similar role.
+Fluent in Spanish or English. Understanding both is a must.
+Good understanding of software development and software engineering habits (like GitHub, unit test, CI/CD, and monitoring).
+Experience in agile methodologies and working in a multidisciplinary team is desirable.
+Strong knowledge of SQL and coding skills in object-oriented programming (Python).
+Strong knowledge of Python Data Science Stack (namely Pandas, etc).
+Experience with serverless (Lambda, Glue) technologies (AWS solutions in particular).
+Detail-oriented and a team worker.
+Good written and verbal communication skills.
+
+Nice-to-haves
+
+Experience on Git, GitHub actions (or other CI/CD solutions), and Docker.
+Experience with IaC (Terraform).
+
+What we offer
+
+Full-time permanent position.
+Competitive salary + optional flex salary plan.
+Flexible working hours.
+Private health insurance.
+Financial aid for work-related training or courses.
+In-house English and Spanish lessons to improve your knowledge.
+A great work environment in Barcelona city center.
+All the coffee you can drink, fresh fruit, and yogurt.
+
+
+
+Wiris is committed to creating a diverse and inclusive workforce. We aim to create a workplace that celebrates the diversity of our employees, customers, and users. Our culture is the result of our behaviors, our personal commitment, our curiosity, how we collaborate, and the ways that we courageously share our perspectives and encourage others to do the same.
+
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant from underrepresented minorities, persons with disabilities, sexual minority groups, and other candidates who may contribute to the diversification and enrichment of ideas and perspectives.
+
+Contactar al anunciante de
+
+Acerca del empleo
+En el ecosistema adecuado, las personas con talento y determinación pueden hacer cosas increíbles - #ProudSofttekian
+
+
+¿Dónde estabas tú hace 40 años? Probablemente aún no habías entrado en la fase de proyecto. O quizá tu curiosidad infantil te llevaba a abrir las tripas de aquel juguete que repetía machaconamente frases pregrabadas. Y te encontrabas con un chip. Y comprendías que la magia era, en realidad, tecnología.
+
+
+Era 1982 y SOFTTEK daba sus primeros pasos. Un grupo de emprendedores visionarios apostaba por una revolución tecnológica, aún incipiente, como motor de evolución para las empresas y la sociedad. No se equivocaban. Hoy Softtek se expande por 20 países de América, Europa y Asia, y su equipo está formado por 15.000 softtekians.
+
+
+Seguimos creciendo y queremos incorporar a personas como tú, que mantienes intactos tu entusiasmo y curiosidad primigenios.
+
+
+¿Qué buscamos?
+
+Data Engineer apasionad@ de las nuevas tecnologías.
+Experiencia de al menos 3 años en un puesto similar
+Conocimientos en SQL, Power BI, Datawarehouse y desarrollo de ETLs.
+Se requiere un nivel de inglés fluido ya que se trata de un proyecto internacional.
+
+¿Qué ofrecemos?
+
+En lo profesional, apostamos por el aprendizaje continuo, la certificación en nuevas habilidades y el desarrollo de una carrera. En Softtek encontrarás:
+
+Trabajo en modalidad híbrida presencial/remoto con sede principal en (rellenar con la oficina correspondiente).
+Equipos multidisciplinares con perfiles de diferentes áreas (desarrollo, UX, consultoría, etc.) que trabajan en entornos AGILE y se gestionan de manera autónoma.
+Planes de formación personalizados para que puedas actualizar constantemente tu conocimiento.
+Crecimiento y desarrollo profesional en la compañía.
+Movilidad: opción a elegir destino profesional entre 20 países y 14 oficinas en España.
+Diversidad: promovemos el talento sin género, barreras ni excepciones, con una cultura inclusiva basada en la igualdad de oportunidades.
+
+En lo personal, fomentamos la conciliación flexible y el bienestar de las personas a través del programa BETTERWORK 2.0. Esto se traduce en beneficios concretos como:
+
+24 días de vacaciones al año, dos más que lo que la ley estipula, y la opción a comprar días de vacaciones adicionales.
+Tarde libre en tu cumpleaños o en el cumpleaños de tus hijos.
+Seguro médico Adeslas.
+Plan de compensación flexible que incluye la opción a retribución en transporte y hostelería para obtener beneficios fiscales.
+Club del empleado: ofertas y promociones exclusivas en viajes y productos de todo tipo.
+Y otros beneficios adicionales. Consúltanos.
+
+¿Quieres trabajar con nosotros? 20 países, 14 sedes en España o tu propio workspace en casa pueden ser tu próximo destino.
+
+
+Somos Softtek, una fuerza NEXT-GEN preparada para abordar el futuro contigo.
+Acerca del empleo
+JOB DESCRIPTION
+
+Actualmente necesitamos incorporar perfiles con conocimiento de soluciones y/o tecnologías en preparación de Datos.
+
+Las personas seleccionadas realizarán el análisis, diseño y desarrollo de soluciones de tratamiento del dato, cubriendo el end-to-end de la solución: métodos de captura, ingesta, tratamiento, almacenamiento y explotación del dato.
+
+PROFILE
+
+Experiencia con Python.
+Nivel de Inglés alto.
+Conocimiento Airflow
+Acerca del empleo
+Our opportunity
+
+You will join the Data Engineering Team, part of Enterprise Data Analytics & Architecture (EDAA) within Group Operations (GO). The Data Engineering team consists of engineers who are passionate about the solutions that we build and the impact that we have in transforming and enabling Zurich as a data-driven organization. Our team is responsible for delivering cutting edge solutions, services and environments to internal customers; Business Units and Group Functions alike, giving you the opportunity to have a global impact.
+
+In the role of Data engineer with ML, you will join a dynamic and agile team providing services, including designing, developing, industrializing and maintaining systems in support of data science and advanced analytics processes. The main objective will be the industrialization of the solutions provided by the Data Scientist team, making them scalable, robust, optimized and following the group standards.
+
+Your role
+
+As a Big Data Engineer with AI/Machine Learning in our Data Science and Data Engineer team your main responsibilities will involve
+
+Industrialize AI / Machine Learning products with a MLOps mentality
+Develop data processing pipelines using Spark framework with Scala/Python in a Cloud environment (Azure, AWS,...)
+Be self-driven: work under uncertainty in terms of requirements and unperfect data
+Communicate with all type of audiences in English
+Love learning and programming in Scala and/or Python
+Have experience in Spark
+Are Fluent in English
+Are Looking for working with Agile methodologies & DataOps
+Are ready to become part of our diverse team, helping customers and supporting data scientists in their daily activities
+Other pluses that you might bring (Nice to have not mandatory):
+University level education, e.g. Computer Science, Engineering, Mathematics or Master’s degree (PhD or equivalent) in a relevant technical field such as computer science, statistics, machine learning or mathematics
+Experience in Cloud Environments
+Experience in MLOps
+Insurance knowledge
+
+Your Skills And Experience
+
+As a Big Data Engineer with Machine Learning your skills and qualifications will ideally include:
+
+University level education, e.g. Computer Science, Computer Engineering, or Engineering Discipline
+Desired: PhD or Master’s degree (or equivalent) in a relevant technical field such as computer science, statistics, machine learning or mathematics.
+5 years relevant industry experience as an applied Data Engineer, or Machine Learning Engineer in an advanced analytics / data science environment
+Preferred: Insurance knowledge and experience.
+Extensive experience applying advanced analytics / machine learning to design, develop, implement and deploy data-driven products
+Proven track record of programming skills:
+Required: Python, SQL, Scala, Spark (R is a plus)
+Experience with Agile methodologies & DevOps
+Experience working in cloud environments, Docker and Kubernetes are a plus, especially in Azure
+Experience in MLOps practices and tools such as AzureML, Sagemaker, MLFlow, Kubeflow or Tensorflow Serving is a plus
+Ability to work effectively in a global organization, even when under time pressure
+Fluent in English (spoken and written)
+
+Additional Information
+
+As well as a competitive salary and a yearly bonus we offer benefits package which includes:
+
+Option to work remotely within Spain even up to 100% - you choose
+Flexible working hours
+Wide range of internal and external trainings
+Free English, German and Spanish classes depending on the needs
+Ticket restaurant
+Life Insurance
+Pension Plan - after 1 year in the company
+Referral bonus if you bring other talented people like you
+Special banking and insurance conditions
+Exclusive Employees discounts
+
+Primary work location is Barcelona, Poblenou . Please apply with your CV in English.
+
+Who We Are
+
+Looking for a challenging and inspiring work environment where you can make a difference? At Zurich millions of individuals and businesses place their trust in our products and services every day. Our 53,000 employees worldwide form the basis of our success, enabling, businesses and communities to face a world of risk with confidence. Imagine if you could help people do this all over the world. You’d give them confidence and reassurance by protecting what they love most. It’s a big challenge, but you will be supported by a world-class team who believe in helping you to reach your full potential and deliver on our promises.
+
+So be challenged. Be inspired. Help us make a difference.
+
+At Zurich we are an equal opportunity employer. We attract and retain the best qualified individuals available, without regard to race/ethnicity, religion, gender, sexual orientation, age or disability.
+
+Acerca del empleo
+Mission and responsibilities:
+
+Openbank is in the middle of a digital transformation, working in startup format and innovating in core banking product development from within. We want to convey a whole new digital experience to our customers and for that reason we need the most skilled professionals to come and join us.
+
+Currently we are looking for Big Data Developers to make the team even stronger. The main tasks of this position will be the following:
+
+
+Design and implement production big data environments using modern technologies.
+Build, validate and optimize large-scale, big data solutions in heterogeneous data environments.
+What are we looking for in this position?
+
+
+Experience working with scala, software design patterns and TDD.
+Experience working with big data (spark is a must, hadoop, hive, kafka).
+Experience with different database structures, including SQL (postgres, mysql) and NOSQL (cassandra, redis, elastic search).
+Experience and expertise across data integration and data management with high data volumes.
+Experience with AWS ecosystem (AWS, EMR, s3, redshift, lambda, glue, athena)
+Experience working in agile continuos integration/devops paradigm and tool set (git, jenkins, sonar, nexus, jira, splunk)
+Nice to have
+
+
+Experience with data warehousing and visualisation tools.
+Experience with NRT applications: Flink, spark streaming, hbase.
+Experience with cloudera.
+Experience with machine learning.
+
+Would you like to grow with us? Join our team!
+
+Openbank is an equal opportunity employer. All applicants will be considered as equal without paying attention to gender identity, sexual orientation, ethnicity, religion, age, political orientation, union membership nor disability status.
+
+We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build.
+
+If you´re not currently living in one of our locations and you are open to relocate, we would still love to consider your application
+
+Contactar al anunciante de empleo
+Perfil del anunciante de empleo
+Claudia Blanco Suárez del Villar 2º
+HR & Talent Acquisition - Digital and IT at Openbank
+
+Ubicación del anunciante de empleo
+Greater Madrid Metropolitan Area
+
+Enviar mensaje InMail
+
+Acerca del empleo
+At EPS we ingest, collect, enrich and process vast amounts of data - every minute of every day. The growing volume of data presents real but exciting challenges that require innovation at all levels and functions.
+
+As a Data Engineer, you will help make sense of petabytes of Data while building, supporting and delivering state-of-the-art Analytics and ML pipelines. The data teams are placed at the core of Business, Analytics and Data Science operations, facilitating decision-making by providing the right data, at the right time, to the right people or system.
+
+EPS is an ambitious start-up inside the world’s biggest travel company. The largest travel affiliate network in the world, we work with partners in 33 countries to turn their web traffic into hotel bookings and happy customers. We create technology that help millions of travelers to find the perfect hotel, flight or car for their next unforgettable trip.
+
+Your Responsibilities
+Build scalable and high-performant data pipelines, using the right software patterns and continuous deployment/integration practices.
+Work in of one of our data teams, alongside data scientists, product managers and data users.
+Collaborate with upstream system architects, developers and data product managers to support and resolve data issues.
+Work in a DevOps environment (you build it, you run it) on our EPS Data Cloud (AWS) platform.
+Implement the tools and processes to handle performance, scale, availability, accuracy and monitoring.
+Collaborate in an agile and dynamic environment to lead change and keep us current with the latest technologies.
+Your Background:
+You are experienced in Java, Scala and/or Python, Unix/Linux environments, on-premises and in the cloud.
+You understand the AWS cloud ecosystem, such as EMR, Lambda, S3, EC2, SNS, Cloud Formation, VPC etc.
+You have a background in a variety of data technologies, such as Hadoop, Spark, HBase, Hive, Presto or ETL frameworks.
+You have a deep understanding of SQL, and experience working with traditional (Teradata), or cloud based data-warehouse (Redshift, Snowflake).
+You have experience producing tested, secure, resilient and well documented applications.
+You have excellent interpersonal skills and verbal and written communication skills when working with both business and technical teams.
+Why join us:
+
+We’ll take your career on a journey that’s flexible and right for you, whilst recognising and rewarding your achievements…
+A conversation around flexible working and what is right for you is encouraged from day one at EPS.
+Competitive salaries and many growth opportunities within the wider Expedia Group.
+Option to attend conferences globally and enrich the technology skills you are passionate about.
+Cash and Stock rewards for achievers and impact.
+Extensive travel rewards and discounts for all employees.
+About Expedia Group
+
+Expedia Group (NASDAQ: EXPE) powers travel for everyone, everywhere through our global platform. Driven by the core belief that travel is a force for good, we help people experience the world in new ways and build lasting connections. We provide industry-leading technology solutions to fuel partner growth and success, while facilitating memorable experiences for travelers. Expedia Group's family of brands includes: Brand Expedia®, Hotels.com®, Expedia® Partner Solutions, Vrbo®, trivago®, Orbitz®, Travelocity®, Hotwire®, Wotif®, ebookers®, CheapTickets®, Expedia Group™ Media Solutions, Expedia Local Expert®, CarRentals.com™, and Expedia Cruises™.
+
+© 2021 Expedia, Inc. All rights reserved. Trademarks and logos are the property of their respective owners. CST: 2029030-50
+
+Expedia is committed to creating an inclusive work environment with a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, gender, sexual orientation, national origin, disability or age.
+
+Acerca del empleo
+About us
+
+RavenPack is the leading big data analytics provider for financial services. Financial professionals rely on RavenPack for its speed and accuracy in analyzing large amounts of unstructured content. RavenPack’s products allow clients to enhance returns, reduce risk and increase efficiency by systematically incorporating the effects of public information in their models or workflows. Our clients include the most successful hedge funds, banks, and asset managers in the world!
+
+
+We are looking for a full-time Data Engineer to join RavenPack’s Data Integration team in Marbella (Spain). You will be participating in the maintenance and development of internal infrastructure as well as analyzing the content of the data. You will interact with peers across various lines of business and technical teams to support projects that will span big data analysis and product development among others.
+
+
+The ability to communicate effectively in English, both in writing and verbally is a must. Knowledge of Spanish is not a business requirement.
+
+
+European Union’s legal working status is required.
+
+
+Requirements
+
+Bachelor´s or Master’s Degree in Computer Science or other related fields.
+Proficiency and demonstrable skills in Python, R, and SQL.
+Exposure to AWS cloud services (S3, Athena, Aurora, Dynamodb, EC2, & SQS) and Elasticsearch.
+Knowledge of financial data structures and market data
+Experience working with large data sets or noisy data is an advantage
+Experience with Time Series Analysis
+Excellent verbal and communication skills
+Analytical mind with a keen eye for detail
+
+Responsibilities
+
+Participate in the maintenance and development of the internal Infrastructure.
+Handle large data requests and efficiently utilize cloud resources for data requests.
+Process and analyze large datasets to evaluate them at different levels.
+Monitor analytics to detect unexpected patterns and potential miss behaviors.
+Participate in the development of new products shaping the future of the financial industry.
+Acquire sophisticated knowledge of Big Data applications across various asset classes and trading horizons
+Interact with different departments, including Product and Quants in the organization.
+
+What's in it for you
+
+Flexibility on when to take a vacation, but remember you will be living in a dream place 365 days!
+Team of Superstars! We are proud to gather an international and diverse team of talented professionals (ex-Silicon Valley executives, Lispers, and more)
+Motivational leadership: Here your job title doesn’t matter, we all sit together and work for the same goal. Grow together, you might even have the CEO sitting next to you!
+Competitive compensation, ongoing training, and growth opportunities.
+Eligible to participate in RavenPack's stock option program.
+International and dynamic environment (over 30 nationalities and 24 languages spoken!)
+Beach just in front of our office. If you need a break, cross the street and go for a walk!
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Contactar al anunciante de empleo
+
+Acerca del empleo
+Buscamos gente buena y buena gente, con una experiencia de, al menos, 1-2 años en desarrollo de plataformas web. Apasionada por la innovación y por querer hacer las cosas de forma diferente. Con ganas de romper un sector tradicional, utilizando para ello la tecnología.
+
+
+Conócenos un poco
+
+
+Somos Talent Hackers, una plataforma que ayuda a las personas a encontrar el trabajo que buscan y a las empresas el profesional que necesitan. No somos simplemente un marketplace de ofertas de empleo: ya lo verás. Dentro encontrarás desde herramientas sencillas de administración y gestión, hasta algoritmos complejos para hacer eficiente la búsqueda de talento. Esto nos está permitiendo crecer a un ritmo del 167% cada trimestre 🚀
+
+
+El equipo, como decíamos más arriba, lo forma gente buena y buena gente. Por una parte: operaciones, 4 profesionales con amplia experiencia en el sector del reclutamiento IT, los espartanos que se ocupan de conectarnos con el negocio. El desarrollo de la plataforma corre a cargo del equipo de producto, formado por 4 personas y con quienes trabajarás, con el objetivo de crear un producto único para nuestros usuarios: candidatos, recomendadores y clientes. ¡Ah! Acabas de leer eso de «recomendadores», ¿verdad? Vale, te cuento quiénes son y para qué están.
+
+
+Recomendadores
+
+
+Son una parte FUNDAMENTAL de nuestra plataforma. Son personas –del sector– que recomiendan talento a las empresas a cambio de una recompensa. Sí, has oído bien, las empresas publican una oferta con recompensa para que nuestros recomendadores empiecen a invitar a los mejores candidatos. Sí, esta oferta que estás leyendo tiene recompensa… 😀
+
+
+¿Qué buscamos en alguien como tú?
+
+
+Como decíamos, buscamos una persona a la que le guste la innovación, trabajar en entornos ágiles y dinámicos, proactiva, que pueda trabajar con independencia y que sea fanática del código limpio, TDD, la optimización de procesos y la mejora continua.
+
+Formación reglada en desarrollo de aplicaciones, preferiblemente Ingeniería o Grado en informática.
+Experiencia en la creación de soluciones ML e IA para proyectos de Analítica Predictiva.
+Conocimiento de las librerías de Pandas y Numpy.
+Capacidad para resolver problemas basados en análitica de datos, desarrollando procesos de automatización, y ofreciendo soluciones en colaboración con el resto del equipo técnico.
+Experiencia desarrollando aplicaciones back-end en Python.
+Experiencia trabajando con servicios REST (OAuth2, JSON, OpenAPI...)
+Habituado a trabajar en plataformas de desarrollo ágil e integración contínua (Gitlab y JIRA).
+Autonomía para investigar, resolver problemas y compartir conocimientos con el equipo.
+
+Es valorable....
+
+Haber trabajado con Apache Airflow para orquestar tareas.
+Conocimientos de programación MVC y REST con el framework Django.
+Experiencia con Elasticsearch para el desarrollo de buscadores.
+Algún conocimiento de Data Mining & Web Scraping.
+Conocimientos básicos de Docker, AWS y administración Linux.
+Desarrollo de dashboards con PowerBI.
+
+¿Cuáles serán tus funciones?
+
+Mantener y evolucionar el back-end de la plataforma Talent Hackers (portal público y privado).
+Resolver problemas del día a día basados en análitica de datos, desarrollando procesos de automatización, y ofreciendo soluciones en colaboración con el resto del equipo técnico.
+Dar apoyo tecnológico al equipo de operaciones, para ayudarles a lograr sus objetivos.
+Crear y mantener la documentación de las soluciones desarrolladas.
+Investigar nuevas herramientas para mejorar procesos en el flujo de desarrollo.
+
+¿Qué puedes esperar de nosotros?
+
+
+Cosas de una oferta de empleo:
+
+Salario fijo: 26.000€ a 28.000€
+Bonus: 2.000€
+Remote friendly: Nuestras oficinas están en Madrid y solemos ir 1 o 2 días presencialmente. Si quieres remoto 100%, no hay problema.
+
+Cosas más allá de una oferta de empleo:
+
+Equipo joven y dinámico.
+Posibilidad de aportar valor desde el minuto uno.
+Capacidad para tomar decisiones.
+Ambiente de trabajo donde pasarlo bien, que es lo más importante.
+
+Si por lo que sea no encajas al 100% con la descripción, pero crees que podrías aportar o conoces a alguien que le pueda interesar, envíanos un mensaje. ¡Te escucharemos!
+
+Contactar al anunciante de empleo
+
+Acerca del empleo
+Our offer
+
+Nuestra división de Energía, Industria, Salud y Ferroviario crece y queremos contar contigo.
+
+¿Te gustaría trabajar en un entorno internacional y en el sector de las energías renovables? ¿Te gustan los retos? si estás respondiendo SI, inscríbete a la oferta para poder conocernos.
+
+Disfrutarás De
+Contamos con el certificado EFR (Empresa Familiarmente Responsable), para la conciliación de la vida familiar y personal.
+Tendrás seguro médico privado + seguro de vida y accidentes.
+Retribución flexible (ticket de transporte, tickets de restaurante, pase de gimnasio, guardería ...).
+Formación: técnicas + habilidades + idiomas (sedes, online con plataformas muy potentes, blended ...).
+Buen ambiente de trabajo
+Your role
+
+¿De qué te encargarás?
+
+En Capgemini Engineering buscamos una persona para trabajar como Azure Data Engineer.
+
+Your profile
+
+¿Cuál es el perfil ideal?
+Experiencia sólida como Data Engineer.
+Experiencia con el Stack de Big Data: Hadoop, Spark, Flume, Kafka...
+Alto nivel de inglés. (B2/C1).
+Ubicación: Indiferente
+Ganas de desarrollarse dentro de nuestra compañía.
+
+
+Acerca del empleo
+SilverTours is growing in Spain!
+
+
+SilverTours is a tech company with offices in Cologne (Germany) and Alicante (Spain). Our traditional brand, Billiger-mietwagen.de, is the Nº1 car rental comparison platform in Germany, Austria and Switzerland and together with our French version CARIGAMI and the coolest campervan comparison platform, Camperdays, we are growing so fast.
+
+
+We are looking for an enthusiastic Data Engineer that wants to join us in this trip, helping us to boost our app developments in more countries and develop the future car sharing technology.
+
+
+SilverTours is an international tech company with a clear objective: to be the worldwide leaders in I-Mobility.
+
+
+Click and meet us!
+
+
+ABOUT THE JOB
+
+
+Our business intelligence team enables us to make fast and data driven decisions and to implement a data-driven strategy.
+You design and manage our RedShift data warehouse and be the liaison between our system administration and development teams as well as the business and data analysts.
+You define and implement data import procedures, transformation steps and representation of different data sources with Airflow.
+You integrate new data sources and coordinate technical interfaces with our admins and backend developers.
+You support the BI team in the integration of BI tools and their automation, if necessary with your own scripts.
+With your support, we will evaluate how we use data-lake- & big-data-architectures and machine-learning to develop an exciting e-commerce business in a data-driven way.
+
+ABOUT YOU
+
+
+Several years of experience in designing and enhancing of a cloud data warehouse as well as in the design and implementation of ETL/ELT processes
+Profound knowledge in dealing with (R)DBMS and SQL
+Experience with Web APIs: HTTP, SOAP, REST, XML, JSON, or Google Analytics Reporting API
+Experience with cloud environments: AWS, Google Cloud Platform
+Experience with Python and Git
+You can communicate well verbally and in writing in English
+
+OUR TOOLS
+
+AWS Redshift
+Apache Airflow
+Git
+Python
+MySQL / PostgreSQL
+Google Analytics 360 Suite
+Tableau
+Fivetran
+
+THIS IS WHAT WE OFFER YOU
+
+
+You can work from wherever you want in Germany or Spain
+Real responsibility in designing our BI infrastructure
+An appreciative, familiar and agile company culture with flat hierarchies
+International and dynamic environment that lets you bring your own ideas!
+Constructive feedback is welcome.
+Promotion of personal development through Open Fridays as well as the opportunity to participate in conferences, further education or online courses.
+Flexible working hours with amazing offices in the centre of Cologne and sunny Alicante
+Home Office scheme and open to Remote work!
+A highly motivated, efficient team that works together and enjoys celebrating joint successes
+
+
+Sounds Good? LET’S GET IN TOUCH!
+
+
+Please apply including your salary expectations and preferred entry date.
+
+We are looking forward to talking with you!
+
+Contactar al anunciante de empleo
+Perfil del anunciante de empleo
+Greg Rodríguez 2º
+HR Manager at SilverTours GmbH | billiger-mietwagen.de | CamperDays | CARIGAMI We're hiring!
+
+Ubicación del anunciante de empleo
+Alicante, Valencian Community, Spain
+
+Enviar mensaje InMail
+
+
+Acerca del empleo
+¿Quieres encontrar tu mejor futuro? ¡Búscalo en Google! Descubrirás que no debes dejar pasar la oportunidad de unirte al equipo de Accenture líder en tecnologías de Google, el Accenture Google Business Group (AGBG).
+
+Somos un grupo flexible y ágil como las pequeñas empresas especialistas, pero con toda la fuerza y oportunidades de carrera profesional que la mayor y mejor empresa de servicios tecnológicos del mundo, Accenture, puede ofrecerte. Si te apasiona la tecnología ¡Éste es tu sitio!
+
+Cada vez hay más empresas moviéndose a la nube, y actualmente Google es la nube con mayor crecimiento, ¡Así que muchos de nuestros clientes te necesitan! Ayudémosles juntos desde Accenture a modernizarse sacando el máximo partido a la nube de Google.
+
+¿Por qué elegir Google Cloud para desarrollar tu carrera profesional?
+
+Google Cloud es la nube con mayor crecimiento, ¡Aprovecha esta ventaja en tu carrera profesional!
+
+Disfruta de la mejor tecnología, ¡Y de código abierto! Google ha creado y liberado algunos de los componentes de software más utilizados en la actualidad, como Kubernetes, Angular, MapReduce, HDFS, Android o Chromium.
+
+Trabaja tranquilo en la nube más segura, construida sobre la mayore red del mundo. ¡Google gestiona más del 25% del tráfico de internet!
+
+Maneja los datos mejor que nadie. ¡Usa la misma tecnología que el buscador de Google para la analítica de datos!
+
+Piensa en el planeta. Google es la nube más verde. Mientras otras nubes intentan llegar ser 100% renovables en 2025, ¡Google funciona en energía 100% renovable desde 2017!
+
+Como Ingeniero de Datos de Google Cloud harás posible la toma de decisiones basada en datos mediante la recopilación, transformación y publicación de estos. Deberás ser capaz de diseñar, construir, poner en funcionamiento, proteger y supervisar los sistemas de procesamiento de datos, con especial énfasis en la seguridad, el cumplimiento, la escalabilidad, la eficiencia, la confiabilidad, la fidelidad, la flexibilidad y la portabilidad. Además, debes ser capaz de aprovechar, implementar y entrenar constantemente los modelos preexistentes de aprendizaje automático. En tu día a día realizarás tareas como:
+
+Diseñar sistemas de procesamiento de datos
+
+Construir y poner en funcionamiento sistemas de procesamiento de datos
+
+Poner en funcionamiento modelos de aprendizaje automático
+
+Garantizar la calidad de las soluciones
+
+¿Cómo esperamos que lo hagas?
+
+Buscando aprender y disfrutar por el camino
+
+Trabajando con el equipo de Accenture-Google y del cliente para diseñar e implantar soluciones modernas y escalables
+
+Mostrando tu experiencia en Google Cloud
+
+Aportando tu conocimiento e ideas para innovar en la estrategia, el diseño y la ingeniería
+
+Demostrando buenas habilidades de comunicación para comprender y ser comprendido por el cliente
+
+Siendo flexible y apoyándote en metodologías ágiles y DevOps
+
+Actuando como mentor y referencia de los miembros del equipo con menor experiencia, ayudándoles a crecer y progresar
+
+Contribuyendo a generar y compartir conocimiento
+
+¿Qué esperamos de ti?
+
+Titulación técnica: Ingeniería Informática, Industrial, Telecomunicaciones u otras con experiencia equivalente (Matemáticas, Física, otras ingenierías, etc.)
+
++5 años de experiencia en el sector de TI
+
++3 años de experiencia implantando arquitecturas de datos en la nube en producción, preferiblemente en Google Cloud
+
++1 año de experiencia trabajando con metodologías agile y herramientas DevOps
+
+Conocimiento alto de tecnologías de Data, preferiblemente en Google Cloud
+
+Conocimiento alto de tecnologías de BigData, preferiblemente Spark, Hadoop, BigQuery y Bigtable
+
+Conocimiento alto de tecnologías de Streaming, preferiblemente Pub/Sub y Kafka
+
+Conocimiento alto en procesos de ETL
+
+Conocimiento alto de modelos, migración y calidad del dato
+
+Conocimiento medio de otros servicios básicos de Google Cloud
+
+Conocimiento medio de trabajos regulatorios y de cumplimiento en la gestión de datos
+
+Conocimiento medio de bases de datos SQL y NoSQL
+
+Certificación Google Associate Cloud Engineer o compromiso de estudiar y obtenerla en los primeros 6 meses
+
+Certificación Google Professional Data Engineer o compromiso de estudiar y obtenerla en los primeros 6 meses

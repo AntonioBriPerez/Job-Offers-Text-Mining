@@ -1,0 +1,39 @@
+SPARK
+PYTHON
+SQL
+Git
+AWS
+ETL
+Bash
+PERL
+CLOUDERA
+ORACLE
+RabbitMQ
+Confluent
+Exasol
+Gobierno del Dato (procesos)
+SCALA 
+Java
+Hive
+R
+Jira
+Data Mining
+DOCKER
+NOSQL (HBase, BigTable)
+SNOWFLAKE
+Google Cloud
+Kubernetes
+Agile
+tableau
+Google
+mapreduce
+API REST
+REST
+Hadoop
+BigQuery
+HDFS
+AZURE
+BigTable
+Pub/Sub
+Kafka
+
