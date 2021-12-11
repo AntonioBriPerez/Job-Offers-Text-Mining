@@ -8,3 +8,7 @@ To use the script you only need to create your own corpus of job offers(data_eng
 ```
 python job_offers_miner.py
 ```
+Result:
+
+
+![alt text](https://github.com/AntonioBriPerez/Job-Offers-Text-Mining/blob/main/image.png)
